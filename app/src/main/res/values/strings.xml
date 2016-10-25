@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">ACCESS</string>
+   
+    <string name="title_text">Settings Deployment for Kodi</string>
+    <string name="action_settings">Settings</string>
+    <string name="the_wiz">TheWiz</string>
+    <string name="kodi_deploy">Settings Deployment for Kodi</string>
+    <string name="found_xbmc">Found XBMC!</string>
+    <string name="found_kodi">Found BTV!</string>
+    <string name="found_nothing">Could not locate XBMC/Kodi</string>
+    <string name="deploy_success">Installation successfully completed.</string>
+    <string name="deploy_fail">Deployment failed, please try again.</string>
+    <string name="work_type_downloading">Downloading...</string>
+    <string name="work_type_extracting">Extracting...</string>
+    <string name="download_url">http://thewiz.info/XBMC/Kodi.TheWiz.Pack.zip</string>
+    <string name="uninstall_kodi">Uninstall BTV</string>
+	<string name="install_kodi">Install BTV</string>
+	<string name="title_sel_profile">Select Addon Version !</string>
+	<string name="msg_verify">To activate your Freestream warranty and updater email  warranty@freestreambox.com with the following code</string>
+	<string name="msg_nowifi">Can not connect the network! Please set up network connection.</string>
+	<string name="msg_nomatchmac">Unauthorized!</string>
+	<string name="msg_checked_fail">Unchecked!</string>
+	<string name="msg_exit_update">Confirm exit ACCESS?</string>
+	<string name="msg_ask_update">Will you update BTV?</string>
+	<string name="btn_Ok">OK</string>
+	<string name="Error_1">Incorrect download path, please try again.</string>
+	<string name="Error_2">Downloading cancelled, please try again.</string>
+	<string name="Error_3">Downloading failed, please try again.</string>
+	<string name="Error_4">Installation cancelled, please try again.</string>
+	<string name="Error_5">Installation file corrupted, please try again.</string>
+	<string name="Error_6">Deployment failed, please try again.</string>
+	<string name="Error_7">Deployment failed, please try again.</string>
+</resources>
