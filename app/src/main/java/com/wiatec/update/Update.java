@@ -180,7 +180,6 @@ public class Update extends Activity {
         	download_tip.setText(R.string.msg_nowifi);
         	dots_textView.setVisibility(View.GONE);
         }else{
-        	
         	if(Constant.MACAUTCH){
         		String macAdress = Util.getMacAddress();
             	macAdress = macAdress.replaceAll(":", "");
@@ -203,7 +202,7 @@ public class Update extends Activity {
         					showDialog(Update.this,R.string.msg_nomatchmac);
         				}
         			}
-        			
+
         			@Override
         			public void onFailure(int arg0, Header[] arg1, byte[] arg2, Throwable arg3) {
         				Log.e("result", arg3.toString());
@@ -213,7 +212,6 @@ public class Update extends Activity {
         	}else{
         		checkVersion(Constant.VERSIONURL);
         	}
-        	
         }
         //BTV2016020201-a0bc123f7d
         currentVersion = CacheUtils.getString(this, "current_version", "BG5D1-9d608dc985");//BTV2016030201
