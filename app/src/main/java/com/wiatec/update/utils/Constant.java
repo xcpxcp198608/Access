@@ -7,7 +7,7 @@ public class Constant {
 	 * true 表示需要进行mac地址校验
 	 * false 表示不需要进行mac地址校验
 	 */
-	public static final boolean MACAUTCH = true;
+	public static final boolean MACAUTCH = false;
 	
 	public static final String FILEDELTXT = "/Android/data/org.xbmc.kodi/files/.kodi/filedel.txt";
 	

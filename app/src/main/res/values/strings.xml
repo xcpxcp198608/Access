@@ -31,4 +31,9 @@
 	<string name="Error_5">Installation file corrupted, please try again.</string>
 	<string name="Error_6">Deployment failed, please try again.</string>
 	<string name="Error_7">Deployment failed, please try again.</string>
+
+	<string name="select_language">Please select language:</string>
+
+
+
 </resources>

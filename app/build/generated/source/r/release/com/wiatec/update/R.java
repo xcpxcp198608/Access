@@ -8,6 +8,9 @@
 package com.wiatec.update;
 
 public final class R {
+    public static final class array {
+        public static final int language=0x7f040000;
+    }
     public static final class attr {
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
@@ -170,8 +173,8 @@ containing a value of this type.
         public static final int strokeWidth=0x7f01000a;
     }
     public static final class dimen {
-        public static final int activity_horizontal_margin=0x7f040000;
-        public static final int activity_vertical_margin=0x7f040001;
+        public static final int activity_horizontal_margin=0x7f050000;
+        public static final int activity_vertical_margin=0x7f050001;
     }
     public static final class drawable {
         public static final int background_1=0x7f020000;
@@ -196,25 +199,25 @@ containing a value of this type.
         public static final int versionbutton=0x7f020013;
     }
     public static final class id {
-        public static final int LinearLayout1=0x7f050006;
-        public static final int center=0x7f050003;
-        public static final int current_version=0x7f05000f;
-        public static final int dots_textView=0x7f05000e;
-        public static final int download_btn=0x7f050008;
-        public static final int download_tip=0x7f05000d;
-        public static final int imageView1=0x7f050012;
-        public static final int left=0x7f050004;
-        public static final int number=0x7f050001;
-        public static final int point=0x7f050002;
-        public static final int right=0x7f050005;
-        public static final int rollView=0x7f050010;
-        public static final int tasks_view=0x7f050007;
-        public static final int textView3=0x7f050009;
-        public static final int tv_Marquee=0x7f050011;
-        public static final int version_name=0x7f05000c;
-        public static final int viewpager_inner=0x7f050000;
-        public static final int work_prog=0x7f05000b;
-        public static final int work_type=0x7f05000a;
+        public static final int LinearLayout1=0x7f060006;
+        public static final int center=0x7f060003;
+        public static final int current_version=0x7f06000f;
+        public static final int dots_textView=0x7f06000e;
+        public static final int download_btn=0x7f060008;
+        public static final int download_tip=0x7f06000d;
+        public static final int imageView1=0x7f060012;
+        public static final int left=0x7f060004;
+        public static final int number=0x7f060001;
+        public static final int point=0x7f060002;
+        public static final int right=0x7f060005;
+        public static final int rollView=0x7f060010;
+        public static final int tasks_view=0x7f060007;
+        public static final int textView3=0x7f060009;
+        public static final int tv_Marquee=0x7f060011;
+        public static final int version_name=0x7f06000c;
+        public static final int viewpager_inner=0x7f060000;
+        public static final int work_prog=0x7f06000b;
+        public static final int work_type=0x7f06000a;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -223,36 +226,37 @@ containing a value of this type.
         public static final int main=0x7f030003;
     }
     public static final class string {
-        public static final int Error_1=0x7f060000;
-        public static final int Error_2=0x7f060001;
-        public static final int Error_3=0x7f060002;
-        public static final int Error_4=0x7f060003;
-        public static final int Error_5=0x7f060004;
-        public static final int Error_6=0x7f060005;
-        public static final int Error_7=0x7f060006;
-        public static final int action_settings=0x7f060007;
-        public static final int app_name=0x7f060008;
-        public static final int btn_Ok=0x7f060009;
-        public static final int deploy_fail=0x7f06000a;
-        public static final int deploy_success=0x7f06000b;
-        public static final int download_url=0x7f06000c;
-        public static final int found_kodi=0x7f06000d;
-        public static final int found_nothing=0x7f06000e;
-        public static final int found_xbmc=0x7f06000f;
-        public static final int install_kodi=0x7f060010;
-        public static final int kodi_deploy=0x7f060011;
-        public static final int msg_ask_update=0x7f060012;
-        public static final int msg_checked_fail=0x7f060013;
-        public static final int msg_exit_update=0x7f060014;
-        public static final int msg_nomatchmac=0x7f060015;
-        public static final int msg_nowifi=0x7f060016;
-        public static final int msg_verify=0x7f060017;
-        public static final int the_wiz=0x7f060018;
-        public static final int title_sel_profile=0x7f060019;
-        public static final int title_text=0x7f06001a;
-        public static final int uninstall_kodi=0x7f06001b;
-        public static final int work_type_downloading=0x7f06001c;
-        public static final int work_type_extracting=0x7f06001d;
+        public static final int Error_1=0x7f070000;
+        public static final int Error_2=0x7f070001;
+        public static final int Error_3=0x7f070002;
+        public static final int Error_4=0x7f070003;
+        public static final int Error_5=0x7f070004;
+        public static final int Error_6=0x7f070005;
+        public static final int Error_7=0x7f070006;
+        public static final int action_settings=0x7f070007;
+        public static final int app_name=0x7f070008;
+        public static final int btn_Ok=0x7f070009;
+        public static final int deploy_fail=0x7f07000a;
+        public static final int deploy_success=0x7f07000b;
+        public static final int download_url=0x7f07000c;
+        public static final int found_kodi=0x7f07000d;
+        public static final int found_nothing=0x7f07000e;
+        public static final int found_xbmc=0x7f07000f;
+        public static final int install_kodi=0x7f070010;
+        public static final int kodi_deploy=0x7f070011;
+        public static final int msg_ask_update=0x7f070012;
+        public static final int msg_checked_fail=0x7f070013;
+        public static final int msg_exit_update=0x7f070014;
+        public static final int msg_nomatchmac=0x7f070015;
+        public static final int msg_nowifi=0x7f070016;
+        public static final int msg_verify=0x7f070017;
+        public static final int select_language=0x7f070018;
+        public static final int the_wiz=0x7f070019;
+        public static final int title_sel_profile=0x7f07001a;
+        public static final int title_text=0x7f07001b;
+        public static final int uninstall_kodi=0x7f07001c;
+        public static final int work_type_downloading=0x7f07001d;
+        public static final int work_type_extracting=0x7f07001e;
     }
     public static final class style {
         /** 
@@ -261,10 +265,10 @@ containing a value of this type.
             backward-compatibility can go here.
         
          */
-        public static final int AppBaseTheme=0x7f070000;
+        public static final int AppBaseTheme=0x7f080000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f070001;
+        public static final int AppTheme=0x7f080001;
     }
     public static final class styleable {
         /** Attributes that can be used with a RollViewPager.

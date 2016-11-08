@@ -33,6 +33,7 @@ import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
 import android.content.res.Resources.NotFoundException;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
@@ -114,6 +115,25 @@ public class MainActivity extends Activity {
         setContentView(R.layout.main);
         packageManager = getPackageManager();
         m_util = new Util(this);
+
+		String device = Build.MODEL;
+		if(device.equals("BTVi3")){
+
+		}else{
+			AlertDialog.Builder builder = new Builder(MainActivity.this);
+			builder.setTitle("Warning");
+			builder.setMessage("This device is not supported");
+			builder.setCancelable(false);
+			builder.setNegativeButton("Confirm", new OnClickListener() {
+				@Override
+				public void onClick(DialogInterface dialog, int which) {
+					finish();
+				}
+			});
+			builder.show();
+			return;
+		}
+
         
         AlertDialog.Builder builder = new Builder(MainActivity.this);
         	builder.setTitle("Warning"); 
@@ -302,7 +322,7 @@ public class MainActivity extends Activity {
 
 					@Override
 					public void onFailure(HttpException arg0, String arg1) {
-						Toast.makeText(MainActivity.this, "下载失败", 0).show();
+						Toast.makeText(MainActivity.this, "下载失败", Toast.LENGTH_SHORT).show();
 						System.out.println(arg1);
 						arg0.printStackTrace();
 						loadMainUI();
