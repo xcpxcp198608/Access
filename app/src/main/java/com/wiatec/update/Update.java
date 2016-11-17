@@ -19,6 +19,7 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.content.pm.PackageManager.NameNotFoundException;
@@ -134,6 +135,9 @@ public class Update extends Activity {
 	//px--------------------------------------------------------------------------------------------
 	private RollPagerView rollView;
 	private MarqueeView tv_Marquee;
+	private SharedPreferences sharedPreferences;
+	private String localLanguage;
+	private String downloadUrl;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -145,6 +149,27 @@ public class Update extends Activity {
 		//px----------------------------------------------------------------------------------------
 		rollView = (RollPagerView) findViewById(R.id.rollView);
 		tv_Marquee = (MarqueeView) findViewById(R.id.tv_Marquee);
+		sharedPreferences = getSharedPreferences("language" ,MODE_PRIVATE);
+		localLanguage = sharedPreferences.getString("language" ,"");
+		if("".equals(localLanguage)){
+			downloadUrl = Constant.VERSIONURL;
+		}else if(getString(R.string.english).equals(localLanguage)){
+			downloadUrl = Constant.VERSIONURL;
+		}else if(getString(R.string.italian).equals(localLanguage)){
+			downloadUrl = Constant.ITALIAN_VERSION_URL;
+		}else if(getString(R.string.spanish).equals(localLanguage)){
+			downloadUrl = Constant.SPANISH_VERSION_URL;
+		}else if(getString(R.string.korea).equals(localLanguage)){
+			downloadUrl = Constant.KOREA_VERSION_URL;
+		}else if(getString(R.string.chinese_tw).equals(localLanguage)){
+			downloadUrl = Constant.CHINESE_TW_VERSION_URL;
+		}else if(getString(R.string.chinese).equals(localLanguage)){
+			downloadUrl = Constant.CHINESE_VERSION_URL;
+		}else {
+			downloadUrl = Constant.VERSIONURL;
+		}
+		Log.d("----px----" , downloadUrl);
+		//---
 
         packageManager = getPackageManager();
         filehead=Util.getFileHead();
@@ -191,7 +216,7 @@ public class Update extends Activity {
         				str = str.substring(str.lastIndexOf("=")+1, str.length());
         				Log.e("result", str);
         				if("OK".equals(str)){
-        					checkVersion(Constant.VERSIONURL);
+        					checkVersion(downloadUrl);
 //        					NoIdentify();
 //        		    		if (m_IsConnected == false) {
 //        		    			AlertDialog.Builder gg = new AlertDialog.Builder(Update.this);
@@ -210,7 +235,7 @@ public class Update extends Activity {
         			}
         		});
         	}else{
-        		checkVersion(Constant.VERSIONURL);
+        		checkVersion(downloadUrl);
         	}
         }
         //BTV2016020201-a0bc123f7d

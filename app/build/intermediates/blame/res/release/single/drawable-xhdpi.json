@@ -1,11 +1,11 @@
 [
     {
-        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\logo.png",
-        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
-    },
-    {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn_d.png",
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn_d.png"
+    },
+    {
+        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\logo.png",
+        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
     },
     {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn_p.png",

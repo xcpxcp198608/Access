@@ -169,7 +169,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7b4c8ae128b05b4a5db8e98d9f167e545484d762">
+        sha1="8f21a8be4aecd13b85b823b18c9db68ec575e2d2">
         <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\instant-run_87076f4911d8416b8f9f78b5d843b8512167f6d4.jar" />
     </item>
     <item
@@ -178,7 +178,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fff8322d46de601c76b033fa9d6b651576910835">
+        sha1="e2635f9a891ff2b2a8b733776c2c570f29f74bc8">
         <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7258b50a59548f6963a524e822d8556cc18bcd78.jar" />
     </item>
 

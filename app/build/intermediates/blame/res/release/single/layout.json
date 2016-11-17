@@ -4,6 +4,10 @@
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_language.xml",
+        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_language.xml"
+    },
+    {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main2.xml",
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },

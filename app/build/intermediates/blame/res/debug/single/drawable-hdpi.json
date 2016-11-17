@@ -8,12 +8,12 @@
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-hdpi\\download_btn_d.png"
     },
     {
-        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background_1.png",
-        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-hdpi\\background_1.png"
-    },
-    {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download_btn.png",
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-hdpi\\download_btn.png"
+    },
+    {
+        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\background_1.png",
+        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-hdpi\\background_1.png"
     },
     {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",

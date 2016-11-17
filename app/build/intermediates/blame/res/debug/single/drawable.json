@@ -16,12 +16,12 @@
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\download_btn.png"
     },
     {
-        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_btn_d.png",
-        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\download_btn_d.png"
-    },
-    {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\version_btn_d.png",
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\version_btn_d.png"
+    },
+    {
+        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_btn_d.png",
+        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\download_btn_d.png"
     },
     {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\installbutton.xml",

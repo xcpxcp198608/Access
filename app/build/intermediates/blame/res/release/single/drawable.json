@@ -68,11 +68,11 @@
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\version_btn.png"
     },
     {
-        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
-        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\ic_launcher.png"
-    },
-    {
         "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\downloadbutton.xml",
         "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\downloadbutton.xml"
+    },
+    {
+        "merged": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_launcher.png",
+        "source": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\ic_launcher.png"
     }
 ]

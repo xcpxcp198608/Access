@@ -1,4 +1,4 @@
-#Tue Nov 08 10:33:54 CST 2016
+#Thu Nov 17 10:27:46 CST 2016
 base.0=H\:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=H\:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

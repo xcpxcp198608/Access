@@ -199,31 +199,35 @@ containing a value of this type.
         public static final int versionbutton=0x7f020013;
     }
     public static final class id {
-        public static final int LinearLayout1=0x7f060006;
+        public static final int LinearLayout1=0x7f060009;
+        public static final int bt_select=0x7f060008;
         public static final int center=0x7f060003;
-        public static final int current_version=0x7f06000f;
-        public static final int dots_textView=0x7f06000e;
-        public static final int download_btn=0x7f060008;
-        public static final int download_tip=0x7f06000d;
-        public static final int imageView1=0x7f060012;
+        public static final int current_version=0x7f060012;
+        public static final int dots_textView=0x7f060011;
+        public static final int download_btn=0x7f06000b;
+        public static final int download_tip=0x7f060010;
+        public static final int imageView1=0x7f060015;
         public static final int left=0x7f060004;
         public static final int number=0x7f060001;
         public static final int point=0x7f060002;
         public static final int right=0x7f060005;
-        public static final int rollView=0x7f060010;
-        public static final int tasks_view=0x7f060007;
-        public static final int textView3=0x7f060009;
-        public static final int tv_Marquee=0x7f060011;
-        public static final int version_name=0x7f06000c;
+        public static final int rollView=0x7f060013;
+        public static final int spinner=0x7f060007;
+        public static final int tasks_view=0x7f06000a;
+        public static final int textView3=0x7f06000c;
+        public static final int tv_Marquee=0x7f060014;
+        public static final int tv_language=0x7f060006;
+        public static final int version_name=0x7f06000f;
         public static final int viewpager_inner=0x7f060000;
-        public static final int work_prog=0x7f06000b;
-        public static final int work_type=0x7f06000a;
+        public static final int work_prog=0x7f06000e;
+        public static final int work_type=0x7f06000d;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
-        public static final int activity_main1=0x7f030001;
-        public static final int activity_main2=0x7f030002;
-        public static final int main=0x7f030003;
+        public static final int activity_language=0x7f030000;
+        public static final int activity_main=0x7f030001;
+        public static final int activity_main1=0x7f030002;
+        public static final int activity_main2=0x7f030003;
+        public static final int main=0x7f030004;
     }
     public static final class string {
         public static final int Error_1=0x7f070000;
@@ -236,27 +240,34 @@ containing a value of this type.
         public static final int action_settings=0x7f070007;
         public static final int app_name=0x7f070008;
         public static final int btn_Ok=0x7f070009;
-        public static final int deploy_fail=0x7f07000a;
-        public static final int deploy_success=0x7f07000b;
-        public static final int download_url=0x7f07000c;
-        public static final int found_kodi=0x7f07000d;
-        public static final int found_nothing=0x7f07000e;
-        public static final int found_xbmc=0x7f07000f;
-        public static final int install_kodi=0x7f070010;
-        public static final int kodi_deploy=0x7f070011;
-        public static final int msg_ask_update=0x7f070012;
-        public static final int msg_checked_fail=0x7f070013;
-        public static final int msg_exit_update=0x7f070014;
-        public static final int msg_nomatchmac=0x7f070015;
-        public static final int msg_nowifi=0x7f070016;
-        public static final int msg_verify=0x7f070017;
-        public static final int select_language=0x7f070018;
-        public static final int the_wiz=0x7f070019;
-        public static final int title_sel_profile=0x7f07001a;
-        public static final int title_text=0x7f07001b;
-        public static final int uninstall_kodi=0x7f07001c;
-        public static final int work_type_downloading=0x7f07001d;
-        public static final int work_type_extracting=0x7f07001e;
+        public static final int chinese=0x7f07000a;
+        public static final int chinese_tw=0x7f07000b;
+        public static final int confirm=0x7f07000c;
+        public static final int deploy_fail=0x7f07000d;
+        public static final int deploy_success=0x7f07000e;
+        public static final int download_url=0x7f07000f;
+        public static final int english=0x7f070010;
+        public static final int found_kodi=0x7f070011;
+        public static final int found_nothing=0x7f070012;
+        public static final int found_xbmc=0x7f070013;
+        public static final int install_kodi=0x7f070014;
+        public static final int italian=0x7f070015;
+        public static final int kodi_deploy=0x7f070016;
+        public static final int korea=0x7f070017;
+        public static final int msg_ask_update=0x7f070018;
+        public static final int msg_checked_fail=0x7f070019;
+        public static final int msg_exit_update=0x7f07001a;
+        public static final int msg_nomatchmac=0x7f07001b;
+        public static final int msg_nowifi=0x7f07001c;
+        public static final int msg_verify=0x7f07001d;
+        public static final int select_language=0x7f07001e;
+        public static final int spanish=0x7f07001f;
+        public static final int the_wiz=0x7f070020;
+        public static final int title_sel_profile=0x7f070021;
+        public static final int title_text=0x7f070022;
+        public static final int uninstall_kodi=0x7f070023;
+        public static final int work_type_downloading=0x7f070024;
+        public static final int work_type_extracting=0x7f070025;
     }
     public static final class style {
         /** 

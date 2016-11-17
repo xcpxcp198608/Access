@@ -33,6 +33,14 @@
 	<string name="Error_7">Deployment failed, please try again.</string>
 
 	<string name="select_language">Please select language:</string>
+	<string name="confirm">Confirm</string>
+
+	<string name="english">English</string>
+	<string name="spanish">Spanish</string>
+	<string name="italian">Italian</string>
+	<string name="korea">Korea</string>
+	<string name="chinese">中文(简体)</string>
+	<string name="chinese_tw">中文(繁体)</string>
 
 
 
