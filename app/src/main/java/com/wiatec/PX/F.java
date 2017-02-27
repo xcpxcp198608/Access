@@ -5,7 +5,7 @@ package com.wiatec.PX;
  */
 public final class F {
     public static final class url{
-        public static final String roll_info = "http://158.69.229.104:8092/json/RollImageInfo.json";
-        public static final String marquee_info = "http://158.69.229.104:8092/json/MarqueeInfo.json";
+        public static final String image = "http://158.69.229.104:8080/Access/GetImage";
+        public static final String marquee = "http://158.69.229.104:8080/Access/GetMarquee";
     }
 }

@@ -67,7 +67,7 @@ public class DownLoaderTask extends AsyncTask<Integer, Integer, Long> {
 		for (int i = 0; i < wherefilesaves.length; i++) {
 			File file = new File(Util.getFileHead() + wherefilesaves[i] + ".zip");
 			if (file.exists()) {
-				Log.e("hasBeanDownloadFileLength", file.length() + "");
+				//Log.e("hasBeanDownloadFileLength", file.length() + "");
 				mTotalLength += file.length();
 			}
 		}
@@ -92,6 +92,7 @@ public class DownLoaderTask extends AsyncTask<Integer, Integer, Long> {
 	@Override
 	protected void onProgressUpdate(Integer... values) {
 		update.mTasksView.setProgress(values[0]);
+		update.download_tip.setTextColor(Color.rgb(255,255,255));
 		update.download_tip.setText(((long)values[0])*100/mTotalSize +"%Downloading");
 		//Log.e("download values[0]", values[0]+"");
 	}

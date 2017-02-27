@@ -3,183 +3,183 @@
 
     <item
         is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\com.android.volley-volley-1.0.0_3ccfe4bb01461df2498343df50f313b6282ee678.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_43a6d4ee759bdca27813b87d31562d878a7e15b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.4.5\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="db7b11f0b78751aa4718b8de83b1e2a7ed908865">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\com.jude-rollviewpager-1.4.5_fc56380ceb2b4b445bc28868daed19f11d20e2db.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\libs\android-async-http-1.4.5.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="224282920da651087c1b5c576b0fb96833dc167e">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\android-async-http-1.4.5_5fc30d71bd35d87774972783bce3d13014cfee37.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_bdc1ca5dd41f0c8b08723b09035524d7b4f587d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\libs\commons-codec-1.9.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\commons-codec-1.9_463d40085efd34e00a9d9a513e106e520f13a2ec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_43a6d4ee759bdca27813b87d31562d878a7e15b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\PX\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_6a0854b6ae73b78cd8babcc0ac7c0eb6c29664c5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\libs\xUtils.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\xUtils_793ced8c2875768a14929bfd36b8b9f3ae5a9aaf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\PX\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jar="C:\Users\patrick\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\picasso-2.5.2_6a0854b6ae73b78cd8babcc0ac7c0eb6c29664c5.jar" />
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\picasso-2.5.2_2f82604ad5e98abea8bf2808ea76392e4b3dfa4a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="H:\sdk_android\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_84ffe976c9372a237c09846791e59bc13ed8dd5c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\libs\commons-codec-1.9.jar"
+        jar="F:\as_project\BTVUpdater4\app\libs\xUtils.jar"
         jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\commons-codec-1.9_463d40085efd34e00a9d9a513e106e520f13a2ec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_bdc1ca5dd41f0c8b08723b09035524d7b4f587d9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\libs\xUtils.jar"
-        jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\xUtils_793ced8c2875768a14929bfd36b8b9f3ae5a9aaf.jar" />
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\xUtils_7d4dc28ba882d7a4d8cdda1ae2d36db140d8752a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\libs\android-async-http-1.4.5.jar"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="224282920da651087c1b5c576b0fb96833dc167e">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5_5fc30d71bd35d87774972783bce3d13014cfee37.jar" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_3b083a9040db7e6ee43152cc04a820406ec50743.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="H:\sdk_android\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_84ffe976c9372a237c09846791e59bc13ed8dd5c.jar" />
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\com.android.volley-volley-1.0.0_ffc8f8840787403be6c1853ef54756871e1a6c9d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.4.5\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="db7b11f0b78751aa4718b8de83b1e2a7ed908865">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\com.jude-rollviewpager-1.4.5_fc56380ceb2b4b445bc28868daed19f11d20e2db.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_3ccfe4bb01461df2498343df50f313b6282ee678.jar" />
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_ffc8f8840787403be6c1853ef54756871e1a6c9d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="F:\as_project\BTVUpdater4\app\libs\commons-codec-1.9.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="8f21a8be4aecd13b85b823b18c9db68ec575e2d2">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\instant-run_87076f4911d8416b8f9f78b5d843b8512167f6d4.jar" />
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\commons-codec-1.9_44c534ab9bb0db5cefbf6eec5c5d48599453980e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="H:\android_project\BTVUpdater4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="e2635f9a891ff2b2a8b733776c2c570f29f74bc8">
-        <dex dex="H:\android_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7258b50a59548f6963a524e822d8556cc18bcd78.jar" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_562d2c3b30a54f4307956ca2b328758ebb680d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_3b083a9040db7e6ee43152cc04a820406ec50743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\libs\commons-codec-1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\commons-codec-1.9_44c534ab9bb0db5cefbf6eec5c5d48599453980e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_562d2c3b30a54f4307956ca2b328758ebb680d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\libs\xUtils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\xUtils_7d4dc28ba882d7a4d8cdda1ae2d36db140d8752a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\patrick\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_2f82604ad5e98abea8bf2808ea76392e4b3dfa4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="224282920da651087c1b5c576b0fb96833dc167e">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\android-async-http-1.4.5_30426959d808154aa99b065cbddb3295c6799f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c77fe52899ae9f0543de9a7e67d35a98470e044">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6978565959dfb9d69d23a842bbb18287f8526970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_332767f527469044680cbd9aa6ddd9938c5efcf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_332767f527469044680cbd9aa6ddd9938c5efcf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.4.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db7b11f0b78751aa4718b8de83b1e2a7ed908865">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\com.jude-rollviewpager-1.4.5_a891b2570805ab5e3c94fd51233f15f9554e41ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.4.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db7b11f0b78751aa4718b8de83b1e2a7ed908865">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\release\com.jude-rollviewpager-1.4.5_a891b2570805ab5e3c94fd51233f15f9554e41ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="224282920da651087c1b5c576b0fb96833dc167e">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5_30426959d808154aa99b065cbddb3295c6799f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\as_project\BTVUpdater4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1585bc5210f39aa60979de213d000800b22e73a">
+        <dex dex="F:\as_project\BTVUpdater4\app\build\intermediates\pre-dexed\debug\instant-run_2d168c6ba5bc6357b7c2a7bba3ecaba13a1c845b.jar" />
     </item>
 
 </items>

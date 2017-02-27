@@ -144,7 +144,7 @@ public class Update extends Activity {
         super.onCreate(savedInstanceState);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        setContentView(R.layout.activity_main2);
+        setContentView(R.layout.activity_main3);
 
 		//px----------------------------------------------------------------------------------------
 		rollView = (RollPagerView) findViewById(R.id.rollView);
@@ -728,17 +728,17 @@ public class Update extends Activity {
 
 	//px--------------------------------------------------------------------------------------------
 	private void showRollView(){
-		JsonArrayRequest jsonArrayRequest = new JsonArrayRequest(F.url.roll_info, new Response.Listener<JSONArray>() {
+		JsonArrayRequest jsonArrayRequest = new JsonArrayRequest(F.url.image, new Response.Listener<JSONArray>() {
 			@Override
 			public void onResponse(JSONArray response) {
 				try {
-					if(response.length()>0){
+					if(response != null &&response.length()>0){
 						List<RollViewInfo> list = new ArrayList<RollViewInfo>();
 						for (int i = 0; i < response.length() ; i++) {
 							JSONObject j = response.getJSONObject(i);
 							RollViewInfo r = new RollViewInfo();
-							r.setImageUrl(j.getString("imageUrl"));
-							r.setLinkUrl(j.getString("linkUrl"));
+							r.setUrl(j.getString("url"));
+							r.setLink(j.getString("link"));
 							list.add(r);
 						}
 						RollViewAdapter adapter = new RollViewAdapter(list);
@@ -761,17 +761,18 @@ public class Update extends Activity {
 
 	//px--------------------------------------------------------------------------------------------
 	private void showMarquee(){
-		JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(F.url.marquee_info, null, new Response.Listener<JSONObject>() {
+		JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(F.url.marquee, null, new Response.Listener<JSONObject>() {
 			@Override
 			public void onResponse(JSONObject response) {
 				try {
 					if(response!= null){
+						tv_Marquee.setBackgroundColor(Color.argb(60,0,0,0));
 						tv_Marquee.setText("                                                                         " +
 								"                                                                                    " +
 								"                                                                                    " +
-								"                         "+response.getString("text"));
-						tv_Marquee.setTextColor(Color.rgb(response.getInt("colorR"), response.getInt("colorG") , response.getInt("colorB")));
-					}} catch (JSONException e) {
+								"                         "+response.getString("content"));
+					}
+				} catch (JSONException e) {
 					e.printStackTrace();
 				}
 			}

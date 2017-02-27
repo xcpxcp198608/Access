@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,15 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\array.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 195
+                    }
                 }
             },
             {
@@ -24,7 +32,14 @@
                     "endOffset": 1434
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -36,7 +51,14 @@
                     "endOffset": 1490
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
                 }
             },
             {
@@ -48,7 +70,14 @@
                     "endOffset": 1535
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\exploded-aar\\com.jude\\rollviewpager\\1.4.5\\res\\values\\values.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\exploded-aar\\com.jude\\rollviewpager\\1.4.5\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 44,
+                        "endOffset": 826
+                    }
                 }
             },
             {
@@ -60,7 +89,14 @@
                     "endOffset": 1614
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1542,
+                        "endColumn": 75,
+                        "endOffset": 1616
+                    }
                 }
             },
             {
@@ -72,7 +108,14 @@
                     "endOffset": 1691
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1619,
+                        "endColumn": 73,
+                        "endOffset": 1691
+                    }
                 }
             },
             {
@@ -84,7 +127,14 @@
                     "endOffset": 1765
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1694,
+                        "endColumn": 70,
+                        "endOffset": 1763
+                    }
                 }
             },
             {
@@ -96,7 +146,14 @@
                     "endOffset": 1843
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1766,
+                        "endColumn": 74,
+                        "endOffset": 1839
+                    }
                 }
             },
             {
@@ -108,7 +165,14 @@
                     "endOffset": 1926
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1842,
+                        "endColumn": 79,
+                        "endOffset": 1920
+                    }
                 }
             },
             {
@@ -120,7 +184,14 @@
                     "endOffset": 1999
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1923,
+                        "endColumn": 69,
+                        "endOffset": 1991
+                    }
                 }
             },
             {
@@ -132,7 +203,14 @@
                     "endOffset": 2072
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1994,
+                        "endColumn": 69,
+                        "endOffset": 2062
+                    }
                 }
             },
             {
@@ -144,7 +222,14 @@
                     "endOffset": 2125
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 138,
+                        "endColumn": 52,
+                        "endOffset": 186
+                    }
                 }
             },
             {
@@ -156,7 +241,14 @@
                     "endOffset": 2169
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
                 }
             },
             {
@@ -168,7 +260,14 @@
                     "endOffset": 2207
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1506,
+                        "endColumn": 34,
+                        "endOffset": 1539
+                    }
                 }
             },
             {
@@ -180,7 +279,7 @@
                     "endOffset": 2250
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 1,
@@ -199,7 +298,7 @@
                     "endOffset": 2296
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 1,
@@ -218,7 +317,7 @@
                     "endOffset": 2340
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 1,
@@ -237,7 +336,14 @@
                     "endOffset": 2417
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 76,
+                        "endOffset": 632
+                    }
                 }
             },
             {
@@ -249,7 +355,14 @@
                     "endOffset": 2497
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 79,
+                        "endOffset": 554
+                    }
                 }
             },
             {
@@ -261,7 +374,14 @@
                     "endOffset": 2583
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 85,
+                        "endOffset": 849
+                    }
                 }
             },
             {
@@ -273,7 +393,7 @@
                     "endOffset": 2627
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 1,
@@ -292,7 +412,14 @@
                     "endOffset": 2677
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 49,
+                        "endOffset": 403
+                    }
                 }
             },
             {
@@ -304,7 +431,14 @@
                     "endOffset": 2746
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 409,
+                        "endColumn": 68,
+                        "endOffset": 473
+                    }
                 }
             },
             {
@@ -316,7 +450,14 @@
                     "endOffset": 2797
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 50,
+                        "endOffset": 352
+                    }
                 }
             },
             {
@@ -328,7 +469,14 @@
                     "endOffset": 2850
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 910,
+                        "endColumn": 49,
+                        "endOffset": 958
+                    }
                 }
             },
             {
@@ -340,7 +488,7 @@
                     "endOffset": 2894
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 1,
@@ -359,7 +507,14 @@
                     "endOffset": 2963
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 68,
+                        "endOffset": 300
+                    }
                 }
             },
             {
@@ -371,7 +526,7 @@
                     "endOffset": 3003
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 1,
@@ -390,7 +545,14 @@
                     "endOffset": 3067
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1444,
+                        "endColumn": 60,
+                        "endOffset": 1503
+                    }
                 }
             },
             {
@@ -402,7 +564,14 @@
                     "endOffset": 3123
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1327,
+                        "endColumn": 52,
+                        "endOffset": 1378
+                    }
                 }
             },
             {
@@ -414,7 +583,14 @@
                     "endOffset": 3188
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1381,
+                        "endColumn": 61,
+                        "endOffset": 1441
+                    }
                 }
             },
             {
@@ -426,7 +602,14 @@
                     "endOffset": 3245
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1272,
+                        "endColumn": 53,
+                        "endOffset": 1324
+                    }
                 }
             },
             {
@@ -438,7 +621,14 @@
                     "endOffset": 3347
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1172,
+                        "endColumn": 98,
+                        "endOffset": 1269
+                    }
                 }
             },
             {
@@ -450,7 +640,14 @@
                     "endOffset": 3493
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1028,
+                        "endColumn": 142,
+                        "endOffset": 1169
+                    }
                 }
             },
             {
@@ -462,7 +659,14 @@
                     "endOffset": 3561
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 2067,
+                        "endColumn": 64,
+                        "endOffset": 2130
+                    }
                 }
             },
             {
@@ -474,7 +678,7 @@
                     "endOffset": 3605
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 1,
@@ -493,7 +697,14 @@
                     "endOffset": 3648
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endColumn": 42,
+                        "endOffset": 230
+                    }
                 }
             },
             {
@@ -505,7 +716,14 @@
                     "endOffset": 3717
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 961,
+                        "endColumn": 65,
+                        "endOffset": 1025
+                    }
                 }
             },
             {
@@ -517,7 +735,14 @@
                     "endOffset": 3785
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 69,
+                        "endColumn": 67,
+                        "endOffset": 132
+                    }
                 }
             },
             {
@@ -529,7 +754,14 @@
                     "endOffset": 3842
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 855,
+                        "endColumn": 56,
+                        "endOffset": 907
+                    }
                 }
             },
             {
@@ -541,7 +773,14 @@
                     "endOffset": 3907
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 638,
+                        "endColumn": 64,
+                        "endOffset": 698
+                    }
                 }
             },
             {
@@ -553,7 +792,14 @@
                     "endOffset": 3970
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 62,
+                        "endOffset": 762
+                    }
                 }
             },
             {
@@ -561,25 +807,41 @@
                     "startLine": 52,
                     "startColumn": 4,
                     "startOffset": 3975,
-                    "endLine": 54,
+                    "endLine": 58,
                     "endColumn": 12,
-                    "endOffset": 4053
+                    "endOffset": 4261
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 4058,
-                    "endLine": 57,
+                    "startOffset": 4266,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 4125
+                    "endOffset": 4421
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
                 }
             }
         ]

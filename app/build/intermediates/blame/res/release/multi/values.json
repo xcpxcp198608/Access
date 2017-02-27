@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "outputFile": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\array.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\array.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 1434
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 1490
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 1535
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\build\\intermediates\\exploded-aar\\com.jude\\rollviewpager\\1.4.5\\res\\values\\values.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\exploded-aar\\com.jude\\rollviewpager\\1.4.5\\res\\values\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 1614
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 1,
@@ -108,7 +108,7 @@
                     "endOffset": 1691
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 1,
@@ -127,7 +127,7 @@
                     "endOffset": 1765
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 1,
@@ -146,7 +146,7 @@
                     "endOffset": 1843
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 1,
@@ -165,7 +165,7 @@
                     "endOffset": 1926
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 1,
@@ -184,7 +184,7 @@
                     "endOffset": 1999
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 1,
@@ -203,7 +203,7 @@
                     "endOffset": 2072
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 1,
@@ -222,7 +222,7 @@
                     "endOffset": 2125
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 2169
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 2207
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 1,
@@ -279,7 +279,7 @@
                     "endOffset": 2250
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 1,
@@ -298,7 +298,7 @@
                     "endOffset": 2296
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 1,
@@ -317,7 +317,7 @@
                     "endOffset": 2340
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 1,
@@ -336,7 +336,7 @@
                     "endOffset": 2417
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -355,7 +355,7 @@
                     "endOffset": 2497
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -374,7 +374,7 @@
                     "endOffset": 2583
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -393,7 +393,7 @@
                     "endOffset": 2627
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 1,
@@ -412,7 +412,7 @@
                     "endOffset": 2677
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -431,7 +431,7 @@
                     "endOffset": 2746
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -450,7 +450,7 @@
                     "endOffset": 2797
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -469,7 +469,7 @@
                     "endOffset": 2850
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 1,
@@ -488,7 +488,7 @@
                     "endOffset": 2894
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 1,
@@ -507,7 +507,7 @@
                     "endOffset": 2963
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -526,7 +526,7 @@
                     "endOffset": 3003
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 1,
@@ -545,7 +545,7 @@
                     "endOffset": 3067
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 1,
@@ -564,7 +564,7 @@
                     "endOffset": 3123
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 1,
@@ -583,7 +583,7 @@
                     "endOffset": 3188
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 1,
@@ -602,7 +602,7 @@
                     "endOffset": 3245
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 1,
@@ -621,7 +621,7 @@
                     "endOffset": 3347
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 1,
@@ -640,7 +640,7 @@
                     "endOffset": 3493
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 1,
@@ -659,7 +659,7 @@
                     "endOffset": 3561
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 1,
@@ -678,7 +678,7 @@
                     "endOffset": 3605
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 1,
@@ -697,7 +697,7 @@
                     "endOffset": 3648
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -716,7 +716,7 @@
                     "endOffset": 3717
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 1,
@@ -735,7 +735,7 @@
                     "endOffset": 3785
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -754,7 +754,7 @@
                     "endOffset": 3842
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -773,7 +773,7 @@
                     "endOffset": 3907
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -792,7 +792,7 @@
                     "endOffset": 3970
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -812,7 +812,7 @@
                     "endOffset": 4261
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -833,7 +833,7 @@
                     "endOffset": 4421
                 },
                 "from": {
-                    "file": "H:\\android_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

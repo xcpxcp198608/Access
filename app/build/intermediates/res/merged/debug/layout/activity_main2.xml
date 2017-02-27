@@ -4,7 +4,7 @@
     android:id="@+id/LinearLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/btvi3"
+    android:background="@drawable/bg1"
     android:orientation="vertical"
     tools:context=".Update" >
 
@@ -74,7 +74,7 @@
                 android:layout_centerHorizontal="true"
                 android:textStyle="bold"
                 android:text="Download"
-                android:textColor="#4c4c4c"
+                android:textColor="#ffffff"
                 android:textSize="25sp" />
 
             <com.wiatec.update.widget.DotsTextView
@@ -83,7 +83,7 @@
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@+id/download_tip"
                 android:layout_alignBaseline="@+id/download_tip"
-                android:textColor="#4c4c4c"
+                android:textColor="#ffffff"
                 android:textSize="25sp"
                 />
 
@@ -96,7 +96,7 @@
             android:layout_height="0dp"
             android:layout_gravity="center_horizontal"
             android:text="Current Version:"
-            android:textColor="#3c3c3c"
+            android:textColor="#ffffff"
             android:textColorHighlight="#000000"
             android:textSize="20sp" />
 
@@ -107,7 +107,7 @@
             android:layout_height="0dp"
             android:layout_gravity="center_horizontal"
             android:text="Warranties"
-            android:textColor="#3c3c3c"
+            android:textColor="#ffffff"
             android:textColorHighlight="#000000"
             android:textSize="20sp" />
 
@@ -120,12 +120,12 @@
     </LinearLayout>
 
     <com.wiatec.PX.MarqueeView
-        android:background="#88000000"
         android:id="@+id/tv_Marquee"
         android:singleLine="true"
         android:ellipsize="marquee"
         android:marqueeRepeatLimit="marquee_forever"
         android:textSize="20sp"
+        android:textColor="#ffffff"
         android:layout_gravity="bottom"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

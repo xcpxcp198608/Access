@@ -4,30 +4,50 @@ package com.wiatec.PX;
  * Created by PX on 2016/9/19.
  */
 public class RollViewInfo {
-    private String imageUrl;
-    private String linkUrl;
+    private int id;
+    private String name;
+    private String url;
+    private String link;
 
-    public String getImageUrl() {
-        return imageUrl;
+    public int getId() {
+        return id;
     }
 
-    public void setImageUrl(String imageUrl) {
-        this.imageUrl = imageUrl;
+    public void setId(int id) {
+        this.id = id;
     }
 
-    public String getLinkUrl() {
-        return linkUrl;
+    public String getName() {
+        return name;
     }
 
-    public void setLinkUrl(String linkUrl) {
-        this.linkUrl = linkUrl;
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getUrl() {
+        return url;
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
+    }
+
+    public String getLink() {
+        return link;
+    }
+
+    public void setLink(String link) {
+        this.link = link;
     }
 
     @Override
     public String toString() {
-        return "RollImageInfo{" +
-                "imageUrl='" + imageUrl + '\'' +
-                ", linkUrl='" + linkUrl + '\'' +
+        return "RollViewInfo{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", url='" + url + '\'' +
+                ", link='" + link + '\'' +
                 '}';
     }
 }

@@ -69,6 +69,7 @@ public class SelectLanguageActivity extends Activity {
                     editor.putString("language",currentLanguage);
                     editor.commit();
                     startActivity(new Intent(SelectLanguageActivity.this , MainActivity.class));
+                    finish();
                 }
             });
         }else {
