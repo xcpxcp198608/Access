@@ -239,12 +239,13 @@ public class MainActivity extends Activity {
 							JSONObject jsonObj = new JSONObject(json);
 							downloadurl = jsonObj.getString("downloadurl");
 							int serverVersionCode = jsonObj.getInt("version");
-							if (clientVersionCode == serverVersionCode) {
-								// 相同，进入应用程序主界面
-								msg.what = LOAD_MAINUI;
-							} else {
-								// 不同，弹出更新提醒对话框
+							boolean isNeedUpdate = serverVersionCode > clientVersionCode;
+							if (isNeedUpdate) {
+								// 需要更新，弹出更新提醒对话框
 								msg.what = SHOW_UPDATE_DIALOG;
+							} else {
+								// 不需要更新，进入应用程序主界面
+								msg.what = LOAD_MAINUI;
 							}
 						}
 					} else {
