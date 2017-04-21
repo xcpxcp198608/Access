@@ -77,8 +77,8 @@ ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:24:2-74
 		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:24:19-72
 application
 ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:36:5-83:19
-MERGED from [com.android.support:support-v4:23.4.0] F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.volley:volley:1.0.0] F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\patrick\.android\build-cache\beed2df9944688560b5d9aaf2024afc646910c87\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\patrick\.android\build-cache\f2ddae020279fe450223f645c678060d54c5ba86\output\AndroidManifest.xml:9:5-20
 	android:screenOrientation
 		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:41:9-46
 	android:label
@@ -143,9 +143,9 @@ ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:82:9-60
 		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:82:18-58
 uses-sdk
 INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.jude:rollviewpager:1.4.5] F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.jude\rollviewpager\1.4.5\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.4.0] F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.volley:volley:1.0.0] F:\as_project\BTVUpdater4\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:7:5-43
+MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\patrick\.android\build-cache\3ccb8d5ca107f0cf090f2fd4a444c780f6f2131d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\patrick\.android\build-cache\beed2df9944688560b5d9aaf2024afc646910c87\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\patrick\.android\build-cache\f2ddae020279fe450223f645c678060d54c5ba86\output\AndroidManifest.xml:7:5-43
 	android:targetSdkVersion
 		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
 		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml

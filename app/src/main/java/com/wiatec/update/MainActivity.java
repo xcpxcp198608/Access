@@ -117,7 +117,7 @@ public class MainActivity extends Activity {
         m_util = new Util(this);
 
 		String device = Build.MODEL;
-		if(device.equals("BTVi3")|| device.equals("MorphoBT E110")){
+		if(device.equals("BTVi3")|| device.equals("MorphoBT E110")|| device.equals("BTV3")){
 
 		}else{
 			AlertDialog.Builder builder = new Builder(MainActivity.this);
