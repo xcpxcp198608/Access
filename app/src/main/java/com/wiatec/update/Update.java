@@ -49,6 +49,7 @@ import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.TextHttpResponseHandler;
 import com.wiatec.PX.F;
+import com.wiatec.PX.FavoriteManager;
 import com.wiatec.PX.MarqueeView;
 import com.wiatec.PX.RollViewAdapter;
 import com.wiatec.PX.RollViewInfo;
@@ -468,6 +469,9 @@ public class Update extends Activity {
      */
 	public void DeploymentFinished(boolean bSuccess, int errorCode)
     {
+		//px----------------------------------------------------------------------------------------
+		FavoriteManager.restore();
+
         // set result label based on if we succeeded
 		int code = errorCode;
 		if (code < 0 )

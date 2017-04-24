@@ -4,6 +4,7 @@ import com.lidroid.xutils.HttpUtils;
 import com.lidroid.xutils.exception.HttpException;
 import com.lidroid.xutils.http.ResponseInfo;
 import com.lidroid.xutils.http.callback.RequestCallBack;
+import com.wiatec.PX.FavoriteManager;
 import com.wiatec.update.R;
 import com.wiatec.update.utils.Constant;
 import com.wiatec.update.utils.StreamUtils;
@@ -118,7 +119,7 @@ public class MainActivity extends Activity {
 
 		String device = Build.MODEL;
 		if(device.equals("BTVi3")|| device.equals("MorphoBT E110")|| device.equals("BTV3")){
-
+			FavoriteManager.backup();
 		}else{
 			AlertDialog.Builder builder = new Builder(MainActivity.this);
 			builder.setTitle("Warning");
