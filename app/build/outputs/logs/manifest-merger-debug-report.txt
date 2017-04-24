@@ -1,154 +1,154 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:1:1-85:12
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:1:1-85:12
 	package
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:2:5-32
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:4:5-32
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:3:5-29
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.VIBRATE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:7:2-63
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:7:2-63
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:7:19-60
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:7:19-60
 uses-permission#android.permission.INTERNET
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:8:2-64
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:8:2-64
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:8:19-61
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:8:19-61
 uses-permission#android.permission.SET_WALLPAPER
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:9:2-69
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:9:2-69
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:9:19-66
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:9:19-66
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:10:2-75
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:10:2-75
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:10:19-73
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:10:19-73
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:11:2-77
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:11:2-77
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:11:19-75
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:11:19-75
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:12:2-78
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:12:2-78
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:12:19-75
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:12:19-75
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:13:2-77
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:13:2-77
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:13:19-74
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:13:19-74
 uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:14:2-81
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:14:2-81
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:14:19-78
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:14:19-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:16:3-73
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:16:3-73
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:16:20-71
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:16:20-71
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:17:2-75
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:17:2-75
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:17:19-73
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:17:19-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:18:2-72
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:18:2-72
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:18:19-70
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:18:19-70
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:19:2-71
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:19:2-71
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:19:19-69
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:19:19-69
 uses-permission#android.permission.WAKE_LOCK
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:21:2-65
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:21:2-65
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:21:19-62
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:21:19-62
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:22:2-68
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:22:2-68
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:22:19-65
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:22:19-65
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:24:2-74
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:24:2-74
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:24:19-72
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:24:19-72
 application
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:36:5-83:19
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\patrick\.android\build-cache\beed2df9944688560b5d9aaf2024afc646910c87\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\patrick\.android\build-cache\f2ddae020279fe450223f645c678060d54c5ba86\output\AndroidManifest.xml:9:5-20
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:36:5-83:19
+MERGED from [com.android.support:support-v4:23.4.0] /Users/xuchengpeng/.android/build-cache/ec3a4e932827be5a43bfe669e5b0666cafa702ab/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.0.0] /Users/xuchengpeng/.android/build-cache/157303f8c39dda4a7e068807c89a142d443a7805/output/AndroidManifest.xml:9:5-20
 	android:screenOrientation
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:41:9-46
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:41:9-46
 	android:label
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:39:9-41
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:39:9-41
 	android:allowBackup
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:37:9-35
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:37:9-35
 	android:icon
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:38:9-45
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:38:9-45
 	android:theme
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:42:9-40
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:42:9-40
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:40:9-49
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:40:9-49
 activity#com.wiatec.update.MainActivity
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:45:3-54:20
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:45:3-54:20
 	android:screenOrientation
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:49:18-55
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:49:18-55
 	android:label
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:46:18-50
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:46:18-50
 	android:configChanges
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:48:18-79
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:48:18-79
 	android:theme
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:47:18-76
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:47:18-76
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:45:13-41
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:45:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:50:4-53:20
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:50:4-53:20
 action#android.intent.action.MAIN
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:51:5-56
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:51:5-56
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:51:13-54
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:51:13-54
 category#android.intent.category.LAUNCHER
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:52:5-64
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:52:5-64
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:52:15-62
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:52:15-62
 activity#com.wiatec.update.Update
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:63:9-67:20
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:63:9-67:20
 	android:screenOrientation
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:66:19-56
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:66:19-56
 	android:label
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:64:19-51
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:64:19-51
 	android:configChanges
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:65:19-80
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:65:19-80
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:63:19-58
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:63:19-58
 receiver#com.wiatec.update.receiver.BootBroadcastReceiver
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:69:9-73:20
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:69:9-73:20
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:69:19-65
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:69:19-65
 intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:70:13-72:29
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:70:13-72:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:71:17-79
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:71:17-79
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:71:25-76
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:71:25-76
 service#com.wiatec.update.services.CheckVersionService
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:81:9-64
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:81:9-64
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:81:18-62
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:81:18-62
 service#com.wiatec.update.services.DownloadService
-ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:82:9-60
+ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:82:9-60
 	android:name
-		ADDED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml:82:18-58
+		ADDED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml:82:18-58
 uses-sdk
-INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.jude:rollviewpager:1.4.5] C:\Users\patrick\.android\build-cache\3ccb8d5ca107f0cf090f2fd4a444c780f6f2131d\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\patrick\.android\build-cache\beed2df9944688560b5d9aaf2024afc646910c87\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.volley:volley:1.0.0] C:\Users\patrick\.android\build-cache\f2ddae020279fe450223f645c678060d54c5ba86\output\AndroidManifest.xml:7:5-43
+INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.jude:rollviewpager:1.4.5] /Users/xuchengpeng/.android/build-cache/6a831d31d7a12d127e8096ceb5d6adab95237fc4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] /Users/xuchengpeng/.android/build-cache/ec3a4e932827be5a43bfe669e5b0666cafa702ab/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.volley:volley:1.0.0] /Users/xuchengpeng/.android/build-cache/157303f8c39dda4a7e068807c89a142d443a7805/output/AndroidManifest.xml:7:5-43
 	android:targetSdkVersion
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
-		INJECTED from F:\as_project\BTVUpdater4\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/AndroidManifest.xml
