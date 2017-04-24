@@ -1,26 +1,50 @@
 [
     {
-        "merged": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
-        "source": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main2.xml"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
-        "source": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main3.xml"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/layout/activity_main3.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/layout/activity_main3.xml"
     },
     {
-        "merged": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
-        "source": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main1.xml"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/layout/activity_main2.xml"
     },
     {
-        "merged": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main2.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main2.xml"
     },
     {
-        "merged": "F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_language.xml",
-        "source": "F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_language.xml"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main3.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_language.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/layout/activity_language.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/layout/activity_language.xml"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/layout/activity_main1.xml",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/layout/activity_main1.xml"
     }
 ]
