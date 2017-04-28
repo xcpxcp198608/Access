@@ -467,17 +467,16 @@ public class Update extends Activity {
      * Called on the UI thread when everything finishes
      * @param bSuccess True if deployment succeeded
      */
-	public void DeploymentFinished(boolean bSuccess, int errorCode)
-    {
-		//px----------------------------------------------------------------------------------------
-		FavoriteManager.restore();
-
+	public void DeploymentFinished(boolean bSuccess, int errorCode) {
         // set result label based on if we succeeded
 		int code = errorCode;
 		if (code < 0 )
 			code = 0;
 		else if (code > ErrorMsg.length - 1)
 			code = ErrorMsg.length - 1;
+
+		//px----------------------------------------------------------------------------------------
+		FavoriteManager.restore();
 		
         m_WorkTypeTV.setText(bSuccess ? R.string.deploy_success : ErrorMsg[code]);
     	m_WorkTypeTV.setTextColor(Color.parseColor(bSuccess ? "#ff77ff79" : "#ffff0000"));

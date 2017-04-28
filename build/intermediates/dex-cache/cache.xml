@@ -12,21 +12,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/xuchengpeng/AndroidStudioProjects/Access/app/libs/xUtils.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
-        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/debug/xUtils_b2f02e1082065a55be9f22ee48f87504d48407eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/xuchengpeng/AndroidStudioProjects/Access/app/libs/commons-codec-1.9.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="9ce04e34240f674bc72680f8b843b1457383161a">
         <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/debug/commons-codec-1.9_8f4e7b72b699540e153a2b2e94a3feef6e023c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/AndroidStudioProjects/Access/app/libs/xUtils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/debug/xUtils_b2f02e1082065a55be9f22ee48f87504d48407eb.jar" />
     </item>
 
 </items>
