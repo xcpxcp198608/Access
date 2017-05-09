@@ -35,7 +35,7 @@ public class FavoriteManager {
         File targetFile = new File(targetFilePath , FILE_NAME);
         boolean flag = false;
         if(!file.exists()){
-            Toast.makeText(Application.getContext() , "Favorite file is not exists" , Toast.LENGTH_LONG).show();
+            //Toast.makeText(Application.getContext() , "Favorite file is not exists" , Toast.LENGTH_LONG).show();
             return flag;
         }
         if(targetFile.exists()){
@@ -57,12 +57,12 @@ public class FavoriteManager {
                 fileOutputStream.write(buffer , 0 , length);
             }
 
-            Toast.makeText(Application.getContext() , "Operation success" , Toast.LENGTH_LONG).show();
+            //Toast.makeText(Application.getContext() , "Operation success" , Toast.LENGTH_LONG).show();
             flag = true;
         } catch (IOException e) {
             e.printStackTrace();
             flag = false;
-            Toast.makeText(Application.getContext() , "Operation failure , please try again" , Toast.LENGTH_LONG).show();
+            //Toast.makeText(Application.getContext() , "Operation failure , please try again" , Toast.LENGTH_LONG).show();
         }finally {
             try {
                 if(fileOutputStream != null) {
