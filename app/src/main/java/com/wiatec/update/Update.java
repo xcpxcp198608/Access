@@ -261,7 +261,7 @@ public class Update extends Activity {
 		String time2 = display.substring(display.length()-8 , display.length());
 		Toast.makeText(Update.this, sBuildTime+" / "+display+" / "+time2 , Toast.LENGTH_LONG).show();
 
-		long targetTime = 1496246400000l;//2017-06-01 00:00:00
+		long targetTime = 1496851200000l;//2017-06-08 00:00:00
 		if (buildTime >= targetTime) {
 			//
 		}else{
