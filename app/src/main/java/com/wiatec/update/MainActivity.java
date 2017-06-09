@@ -4,6 +4,8 @@ import com.lidroid.xutils.HttpUtils;
 import com.lidroid.xutils.exception.HttpException;
 import com.lidroid.xutils.http.ResponseInfo;
 import com.lidroid.xutils.http.callback.RequestCallBack;
+import com.wiatec.PX.ApkCheck;
+import com.wiatec.PX.ApkLaunch;
 import com.wiatec.PX.FavoriteManager;
 import com.wiatec.update.R;
 import com.wiatec.update.utils.Constant;
@@ -16,6 +18,8 @@ import java.io.InputStream;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -51,6 +55,7 @@ public class MainActivity extends Activity {
     Util m_util;
     protected static final int SHOW_UPDATE_DIALOG = 1;
 	private static final int LOAD_MAINUI = 2;
+	private static final int UPDATE_ROM = 3;
     
     // 包管理器  
  	private PackageManager packageManager;
@@ -73,6 +78,7 @@ public class MainActivity extends Activity {
  				// 因为对话框是activity的一部分显示对话框 必须指定activity的环境（令牌）
  				AlertDialog.Builder builder = new Builder(MainActivity.this);
  				builder.setTitle("Upgrade Info");
+				builder.setCancelable(false);
  				builder.setMessage("APP has a new version, upgrade now?");
  				// builder.setCancelable(false);
  				builder.setOnCancelListener(new OnCancelListener() {
@@ -94,14 +100,14 @@ public class MainActivity extends Activity {
  						download(downloadurl);
  					}
  				});
- 				builder.setPositiveButton("Remind me later", new OnClickListener() {
- 					@Override
- 					public void onClick(DialogInterface dialog, int which) {
- 						dialog.dismiss();
- 						loadMainUI();
- 					}
-
- 				});
+// 				builder.setPositiveButton("Remind me later", new OnClickListener() {
+// 					@Override
+// 					public void onClick(DialogInterface dialog, int which) {
+// 						dialog.dismiss();
+// 						loadMainUI();
+// 					}
+//
+// 				});
  				builder.show();
  				break;
  			}
@@ -292,7 +298,7 @@ public class MainActivity extends Activity {
 		}.start();
 
 	}
-    
+
 	/**
 	 * 多线程的下载器
 	 * 

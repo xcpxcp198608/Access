@@ -3,8 +3,10 @@ package com.wiatec.update;
 import java.io.File;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
 import org.apache.http.Header;
@@ -27,6 +29,7 @@ import android.graphics.Color;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.AsyncTask.Status;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -39,6 +42,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
@@ -48,6 +52,8 @@ import com.jude.rollviewpager.RollPagerView;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.TextHttpResponseHandler;
+import com.wiatec.PX.ApkCheck;
+import com.wiatec.PX.ApkLaunch;
 import com.wiatec.PX.F;
 import com.wiatec.PX.FavoriteManager;
 import com.wiatec.PX.MarqueeView;
@@ -170,7 +176,8 @@ public class Update extends Activity {
 			downloadUrl = Constant.VERSIONURL;
 		}
 		Log.d("----px----" , downloadUrl);
-		//---
+		//px----------------------------------------------------------------------------------------
+		checkBuildVersion();
 
         packageManager = getPackageManager();
         filehead=Util.getFileHead();
@@ -245,6 +252,35 @@ public class Update extends Activity {
         current_version.setText("Current Version:" + currentVersion.substring(0, currentVersion.lastIndexOf("-")));
         //current_version.setText("Current Version:" + currentVersion);
     }
+
+    //px--------------------------------------------------------------------------------------------
+	private void checkBuildVersion(){
+		long buildTime = Build.TIME;
+		String sBuildTime = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date(buildTime));
+		String display = Build.DISPLAY;
+		String time2 = display.substring(display.length()-8 , display.length());
+		Toast.makeText(Update.this, sBuildTime+" / "+display+" / "+time2 , Toast.LENGTH_LONG).show();
+
+		long targetTime = 1496246400000l;//2017-06-01 00:00:00
+		if (buildTime >= targetTime) {
+			//
+		}else{
+			AlertDialog.Builder builder = new AlertDialog.Builder(Update.this);
+			builder.setCancelable(false);
+			builder.setTitle("Notice");
+			builder.setMessage("BTVi3 have a new version firmware, please update.");
+			builder.setPositiveButton("Confirm", new DialogInterface.OnClickListener() {
+				@Override
+				public void onClick(DialogInterface dialogInterface, int i) {
+					if(ApkCheck.isApkInstalled(Update.this,"com.droidlogic.otaupgrade")){
+						ApkLaunch.launchApkByPackageName(Update.this, "com.droidlogic.otaupgrade");
+					}
+					finish();
+				}
+			});
+			builder.show();
+		}
+	}
 
 	//px--------------------------------------------------------------------------------------------
 	@Override
