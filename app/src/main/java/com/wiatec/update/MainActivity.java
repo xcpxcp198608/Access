@@ -124,9 +124,7 @@ public class MainActivity extends Activity {
         m_util = new Util(this);
 
 		String device = Build.MODEL;
-		if(device.equals("BTVi3")|| device.equals("MorphoBT E110")|| device.equals("BTV3")){
-			FavoriteManager.backup();
-		}else{
+		if(!device.equals("BTVi3") && !device.equals("MorphoBT E110") && !device.equals("BTV3")){
 			AlertDialog.Builder builder = new Builder(MainActivity.this);
 			builder.setTitle("Warning");
 			builder.setMessage("This device is not supported");
@@ -140,8 +138,8 @@ public class MainActivity extends Activity {
 			builder.show();
 			return;
 		}
+		FavoriteManager.backup();
 
-        
         AlertDialog.Builder builder = new Builder(MainActivity.this);
         	builder.setTitle("Warning"); 
         	//builder.setIcon(R.drawable.ic_launcher);
