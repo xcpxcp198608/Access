@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.wiatec.update"
-    android:versionCode="14"
-    android:versionName="V3.14" >
+    android:versionCode="15"
+    android:versionName="V3.15" >
 
 
 	<uses-permission android:name="android.permission.VIBRATE" />
