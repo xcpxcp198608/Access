@@ -1,31 +1,35 @@
 [
     {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn_p.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn_p.png"
+    },
+    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/drawable-nodpi/round_bg.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-nodpi/round_bg.png"
     },
     {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\round_bg.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\round_bg.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn_d.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn_d.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\background_1.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\background_1.png"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn_f.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn_f.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/drawable-nodpi/download_btn_f.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-nodpi/download_btn_f.png"
     },
     {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\background_1.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\background_1.png"
+    },
+    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/drawable-nodpi/background_1.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-nodpi/background_1.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\logo.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn_d.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn_d.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/drawable-nodpi/download_btn_p.png",
@@ -36,12 +40,8 @@
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-nodpi/logo.png"
     },
     {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\logo.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\logo.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn_p.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn_p.png"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/drawable-nodpi/download_btn_d.png",
@@ -52,7 +52,7 @@
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-nodpi/download_btn.png"
     },
     {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\download_btn_f.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\download_btn_f.png"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\round_bg.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-nodpi\\round_bg.png"
     }
 ]

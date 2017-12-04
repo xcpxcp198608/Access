@@ -42,6 +42,8 @@
 	<string name="chinese">中文(简体)</string>
 	<string name="chinese_tw">中文(繁体)</string>
 
-
+	<string name="notice">Notice:</string>
+	<string name="notice1">1. If this is your first time using the Access2.0, please first goto BTV Resource to accept the Term of Service before proceeding with Access2.0 resource pack download and installation. </string>
+	<string name="notice2">2. After 100 percent downloading of resource pack, please allow it to do 100 percent installation before exiting.</string>
 
 </resources>

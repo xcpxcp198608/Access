@@ -180,25 +180,26 @@ containing a value of this type.
         public static final int access_bg=0x7f020000;
         public static final int background_1=0x7f020001;
         public static final int bg1=0x7f020002;
-        public static final int btvi3=0x7f020003;
-        public static final int download_btn=0x7f020004;
-        public static final int download_btn_d=0x7f020005;
-        public static final int download_btn_f=0x7f020006;
-        public static final int download_btn_p=0x7f020007;
-        public static final int downloadbutton=0x7f020008;
-        public static final int ic_launcher=0x7f020009;
-        public static final int installbutton=0x7f02000a;
-        public static final int kodi_btn=0x7f02000b;
-        public static final int kodi_btn_d=0x7f02000c;
-        public static final int kodi_btn_f=0x7f02000d;
-        public static final int kodi_btn_p=0x7f02000e;
-        public static final int logo=0x7f02000f;
-        public static final int round_bg=0x7f020010;
-        public static final int version_btn=0x7f020011;
-        public static final int version_btn_d=0x7f020012;
-        public static final int version_btn_f=0x7f020013;
-        public static final int version_btn_p=0x7f020014;
-        public static final int versionbutton=0x7f020015;
+        public static final int bg_1=0x7f020003;
+        public static final int btvi3=0x7f020004;
+        public static final int download_btn=0x7f020005;
+        public static final int download_btn_d=0x7f020006;
+        public static final int download_btn_f=0x7f020007;
+        public static final int download_btn_p=0x7f020008;
+        public static final int downloadbutton=0x7f020009;
+        public static final int ic_launcher=0x7f02000a;
+        public static final int installbutton=0x7f02000b;
+        public static final int kodi_btn=0x7f02000c;
+        public static final int kodi_btn_d=0x7f02000d;
+        public static final int kodi_btn_f=0x7f02000e;
+        public static final int kodi_btn_p=0x7f02000f;
+        public static final int logo=0x7f020010;
+        public static final int round_bg=0x7f020011;
+        public static final int version_btn=0x7f020012;
+        public static final int version_btn_d=0x7f020013;
+        public static final int version_btn_f=0x7f020014;
+        public static final int version_btn_p=0x7f020015;
+        public static final int versionbutton=0x7f020016;
     }
     public static final class id {
         public static final int LinearLayout1=0x7f06000a;
@@ -264,17 +265,28 @@ containing a value of this type.
         public static final int msg_nomatchmac=0x7f07001b;
         public static final int msg_nowifi=0x7f07001c;
         public static final int msg_verify=0x7f07001d;
-        public static final int select_language=0x7f07001e;
-        public static final int spanish=0x7f07001f;
-        public static final int the_wiz=0x7f070020;
-        public static final int title_sel_profile=0x7f070021;
-        public static final int title_text=0x7f070022;
-        public static final int uninstall_kodi=0x7f070023;
-        public static final int work_type_downloading=0x7f070024;
-        public static final int work_type_extracting=0x7f070025;
+        public static final int notice=0x7f07001e;
+        public static final int notice1=0x7f07001f;
+        public static final int notice2=0x7f070020;
+        public static final int select_language=0x7f070021;
+        public static final int spanish=0x7f070022;
+        public static final int the_wiz=0x7f070023;
+        public static final int title_sel_profile=0x7f070024;
+        public static final int title_text=0x7f070025;
+        public static final int uninstall_kodi=0x7f070026;
+        public static final int work_type_downloading=0x7f070027;
+        public static final int work_type_extracting=0x7f070028;
     }
     public static final class style {
+        /** 
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
+         */
         public static final int AppBaseTheme=0x7f080000;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static final int AppTheme=0x7f080001;
     }
     public static final class styleable {

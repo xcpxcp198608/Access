@@ -16,16 +16,16 @@
 
 
     <LinearLayout
-        android:layout_marginRight="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:layout_gravity="center"
         android:orientation="vertical"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="match_parent">
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="0.1"
-            >
+            android:layout_weight="0.1">
 
             <TextView
                 android:id="@+id/version_name"
@@ -43,7 +43,6 @@
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1">
-
 
             <ImageView
                 android:layout_width="100dp"
@@ -104,14 +103,40 @@
         <TextView
             android:layout_weight="0.5"
             android:id="@+id/work_type"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="0dp"
+            android:gravity="center_horizontal"
             android:layout_gravity="center_horizontal"
             android:text="Warranties"
             android:textColor="#ffffff"
             android:textColorHighlight="#000000"
             android:textSize="20sp" />
 
+        <TextView
+            android:text="@string/notice"
+            android:layout_gravity="bottom"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="@string/notice1"
+            android:layout_gravity="bottom"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="@string/notice2"
+            android:layout_gravity="bottom"
+            android:textSize="16sp"
+            android:layout_marginBottom="20dp"
+            android:textColor="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
 
     </LinearLayout>
 
@@ -120,10 +145,9 @@
         android:singleLine="true"
         android:ellipsize="marquee"
         android:marqueeRepeatLimit="marquee_forever"
-        android:textSize="20sp"
         android:textColor="#ffffff"
         android:layout_gravity="bottom"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="0dp" />
 
 </FrameLayout>

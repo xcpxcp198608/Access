@@ -265,17 +265,28 @@ containing a value of this type.
         public static final int msg_nomatchmac=0x7f07001b;
         public static final int msg_nowifi=0x7f07001c;
         public static final int msg_verify=0x7f07001d;
-        public static final int select_language=0x7f07001e;
-        public static final int spanish=0x7f07001f;
-        public static final int the_wiz=0x7f070020;
-        public static final int title_sel_profile=0x7f070021;
-        public static final int title_text=0x7f070022;
-        public static final int uninstall_kodi=0x7f070023;
-        public static final int work_type_downloading=0x7f070024;
-        public static final int work_type_extracting=0x7f070025;
+        public static final int notice=0x7f07001e;
+        public static final int notice1=0x7f07001f;
+        public static final int notice2=0x7f070020;
+        public static final int select_language=0x7f070021;
+        public static final int spanish=0x7f070022;
+        public static final int the_wiz=0x7f070023;
+        public static final int title_sel_profile=0x7f070024;
+        public static final int title_text=0x7f070025;
+        public static final int uninstall_kodi=0x7f070026;
+        public static final int work_type_downloading=0x7f070027;
+        public static final int work_type_extracting=0x7f070028;
     }
     public static final class style {
+        /** 
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        
+         */
         public static final int AppBaseTheme=0x7f080000;
+        /**  All customizations that are NOT specific to a particular API-level can go here. 
+         */
         public static final int AppTheme=0x7f080001;
     }
     public static final class styleable {

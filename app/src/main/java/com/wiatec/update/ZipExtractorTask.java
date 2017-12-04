@@ -96,7 +96,7 @@ public class ZipExtractorTask extends AsyncTask<Integer, Integer, Long> {
 	@Override
 	protected void onPreExecute() {
 		update.download_tip.setText("Installing");
-		update.download_tip.setTextColor(Color.parseColor("#4c4c4c"));
+		update.download_tip.setTextColor(Color.WHITE);
 		totalZipSize = getZipTotalSize(mInput);
 		update.mTasksView.setTotalProgress((int)totalZipSize);
 		

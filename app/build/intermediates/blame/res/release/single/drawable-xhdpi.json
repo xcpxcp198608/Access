@@ -8,32 +8,8 @@
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/round_bg.png"
     },
     {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn.png"
-    },
-    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_launcher.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\background_1.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\background_1.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn_d.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn_d.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/download_btn_d.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/download_btn_d.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/background_1.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/background_1.png"
-    },
-    {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn_p.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn_p.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\logo.png",
@@ -44,20 +20,44 @@
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\round_bg.png"
     },
     {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn_d.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn_d.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn_f.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn_f.png"
     },
     {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/download_btn_d.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/download_btn_d.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/background_1.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/background_1.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/download_btn_f.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/download_btn_f.png"
     },
     {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\background_1.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\background_1.png"
+    },
+    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/download_btn_p.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable-xhdpi/download_btn_p.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\download_btn_p.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable-xhdpi\\download_btn_p.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable-xhdpi/download_btn.png",
