@@ -10,8 +10,9 @@ public class Constant {
 	public static final boolean MACAUTCH = false;
 	
 	public static final String FILEDELTXT = "/Android/data/org.xbmc.kodi/files/.kodi/filedel.txt";
-	
-	public static final String VERSIONURL = "http://btvota.ldlegacy.com/v4/update.js";
+
+//	public static final String VERSIONURL = "http://btvota.ldlegacy.com/v4/update.js";
+	public static final String VERSIONURL = "http://btvota17.ldlegacy.com/v17/update.js";
 
 	public static final String SPANISH_VERSION_URL = "http://btvota.ldlegacy.com/v4/es/update.js";
 	public static final String ITALIAN_VERSION_URL = "http://btvota.ldlegacy.com/v4/it/update.js";

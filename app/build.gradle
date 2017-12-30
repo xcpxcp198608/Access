@@ -1,25 +1,66 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
+    compileSdkVersion 22
     buildToolsVersion '25.0.0'
 
     defaultConfig {
         applicationId "com.wiatec.update"
         minSdkVersion 16
         targetSdkVersion 22
+        versionCode 400
+        versionName "v4.0.1"
+    }
+
+    signingConfigs {
+        relealse {
+            storeFile file("KeyStore/key.jks")
+            storePassword KEYSTORE_PASSWORD
+            keyAlias "key"
+            keyPassword KEY_PASSWORD
+        }
     }
 
     buildTypes {
-        release {
+        debug {
+            buildConfigField "boolean", "LOG_DEBUG", "true"
+            versionNameSuffix "-debug"
             minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            zipAlignEnabled false
+            shrinkResources false
+        }
+        release {
+            buildConfigField "boolean", "LOG_DEBUG", "false"
+            minifyEnabled false
+            zipAlignEnabled true
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.relealse
+        }
+    }
+
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+            def outputFile = output.outputFile
+            def fileName
+            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                if (variant.buildType.name.equals('release')) {
+                    fileName = "${defaultConfig.applicationId}_${defaultConfig.versionName}_${defaultConfig.versionCode}_${releaseTime()}.apk"
+                } else if (variant.buildType.name.equals('debug')) {
+                    fileName = "${defaultConfig.applicationId}_${defaultConfig.versionName}_${defaultConfig.versionCode}_debug.apk"
+                }
+                output.outputFile = new File(outputFile.parent, fileName)
+            }
         }
     }
 }
 
+def releaseTime() {
+    return new Date().format("yyyyMMdd", TimeZone.getTimeZone("UTC"))
+}
+
 dependencies {
-    compile 'com.android.support:support-v4:19.1.0'
+    compile 'com.android.support:support-v4:22.2.1'
     compile files('libs/android-async-http-1.4.5.jar')
     compile files('libs/commons-codec-1.9.jar')
     compile files('libs/xUtils.jar')

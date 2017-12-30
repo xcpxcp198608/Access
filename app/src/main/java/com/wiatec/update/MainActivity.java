@@ -124,20 +124,20 @@ public class MainActivity extends Activity {
         m_util = new Util(this);
 
 		String device = Build.MODEL;
-//		if(!device.equals("BTVi3") && !device.equals("MorphoBT E110") && !device.equals("BTV3")){
-//			AlertDialog.Builder builder = new Builder(MainActivity.this);
-//			builder.setTitle("Warning");
-//			builder.setMessage("This device is not supported");
-//			builder.setCancelable(false);
-//			builder.setNegativeButton("Confirm", new OnClickListener() {
-//				@Override
-//				public void onClick(DialogInterface dialog, int which) {
-//					finish();
-//				}
-//			});
-//			builder.show();
-//			return;
-//		}
+		if(!device.equals("BTVi3") && !device.equals("BTV3")){
+			AlertDialog.Builder builder = new Builder(MainActivity.this);
+			builder.setTitle("Warning");
+			builder.setMessage("This device is not supported");
+			builder.setCancelable(false);
+			builder.setNegativeButton("Confirm", new OnClickListener() {
+				@Override
+				public void onClick(DialogInterface dialog, int which) {
+					finish();
+				}
+			});
+			builder.show();
+			return;
+		}
 		FavoriteManager.backup();
 
         AlertDialog.Builder builder = new Builder(MainActivity.this);

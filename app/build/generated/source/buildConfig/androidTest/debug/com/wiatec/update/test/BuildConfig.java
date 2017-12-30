@@ -8,6 +8,8 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.wiatec.update.test";
   public static final String BUILD_TYPE = "debug";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = -1;
-  public static final String VERSION_NAME = "";
+  public static final int VERSION_CODE = 400;
+  public static final String VERSION_NAME = "v4.0.1-debug";
+  // Fields from build type: debug
+  public static final boolean LOG_DEBUG = true;
 }
