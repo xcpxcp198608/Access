@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">ACCESS2.0</string>
+    <string name="app_name">ACCESS3.0</string>
    
     <string name="title_text">Settings Deployment for Kodi</string>
     <string name="action_settings">Settings</string>
@@ -43,7 +43,8 @@
 	<string name="chinese_tw">中文(繁体)</string>
 
 	<string name="notice">Notice:</string>
-	<string name="notice1">1. If this is your first time using the Access2.0, please first goto BTV Resource to accept the Term of Service before proceeding with Access2.0 resource pack download and installation. </string>
+	<string name="notice1">1. If this is your first time using the Access3.0, please first goto Netresources to accept the Term of Service before proceeding with Access3.0 resource pack download and installation.</string>
 	<string name="notice2">2. After 100 percent downloading of resource pack, please allow it to do 100 percent installation before exiting.</string>
+	<string name="notice3">3.  If during the downloading, the internet got interrupted and the downloading stop, please exit the application and come back in again.  The downloading will resume.</string>
 
 </resources>

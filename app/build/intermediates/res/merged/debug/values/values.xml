@@ -20,7 +20,7 @@
     <string name="Error_6">Deployment failed, please try again.</string>
     <string name="Error_7">Deployment failed, please try again.</string>
     <string name="action_settings">Settings</string>
-    <string name="app_name">ACCESS2.0</string>
+    <string name="app_name">ACCESS3.0</string>
     <string name="btn_Ok">OK</string>
     <string name="chinese">中文(简体)</string>
     <string name="chinese_tw">中文(繁体)</string>
@@ -43,8 +43,9 @@
     <string name="msg_nowifi">Can not connect the network! Please set up network connection.</string>
     <string name="msg_verify">To activate your Freestream warranty and updater email  warranty@freestreambox.com with the following code</string>
     <string name="notice">Notice:</string>
-    <string name="notice1">1. If this is your first time using the Access2.0, please first goto BTV Resource to accept the Term of Service before proceeding with Access2.0 resource pack download and installation. </string>
+    <string name="notice1">1. If this is your first time using the Access3.0, please first goto Netresources to accept the Term of Service before proceeding with Access3.0 resource pack download and installation.</string>
     <string name="notice2">2. After 100 percent downloading of resource pack, please allow it to do 100 percent installation before exiting.</string>
+    <string name="notice3">3.  If during the downloading, the internet got interrupted and the downloading stop, please exit the application and come back in again.  The downloading will resume.</string>
     <string name="select_language">Please select language:</string>
     <string name="spanish">Spanish</string>
     <string name="the_wiz">TheWiz</string>
@@ -54,13 +55,9 @@
     <string name="work_type_downloading">Downloading...</string>
     <string name="work_type_extracting">Extracting...</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
 </resources>

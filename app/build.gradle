@@ -9,7 +9,7 @@ android {
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 400
-        versionName "v4.0.1"
+        versionName "v4.0.0"
     }
 
     signingConfigs {
