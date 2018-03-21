@@ -8,8 +8,8 @@ android {
         applicationId "com.wiatec.update"
         minSdkVersion 16
         targetSdkVersion 22
-        versionCode 400
-        versionName "v4.0.0"
+        versionCode 402
+        versionName "v4.0.2"
     }
 
     signingConfigs {
@@ -68,4 +68,5 @@ dependencies {
     compile 'com.jude:rollviewpager:1.4.5'
     compile 'com.android.volley:volley:1.0.0'
     compile 'com.squareup.picasso:picasso:2.5.2'
+    compile group: 'commons-io', name: 'commons-io', version: '2.4'
 }

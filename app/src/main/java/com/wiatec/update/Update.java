@@ -509,7 +509,7 @@ public class Update extends Activity {
 			code = ErrorMsg.length - 1;
 
 		//px----------------------------------------------------------------------------------------
-		FavoriteManager.restore();
+//		FavoriteManager.restore();
 		
         m_WorkTypeTV.setText(bSuccess ? R.string.deploy_success : ErrorMsg[code]);
     	m_WorkTypeTV.setTextColor(Color.parseColor(bSuccess ? "#ff77ff79" : "#ffff0000"));

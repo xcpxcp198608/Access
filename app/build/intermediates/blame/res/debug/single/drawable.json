@@ -28,6 +28,10 @@
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\download_btn_p.png"
     },
     {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/drawable/bg_main2.jpg",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable/bg_main2.jpg"
+    },
+    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/debug/drawable/kodi_btn_p.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable/kodi_btn_p.png"
     },

@@ -124,7 +124,7 @@ public class MainActivity extends Activity {
         m_util = new Util(this);
 
 		String device = Build.MODEL;
-		if(!device.equals("BTVi3") && !device.equals("BTV3")){
+		if(!device.contains("BTV")){
 			AlertDialog.Builder builder = new Builder(MainActivity.this);
 			builder.setTitle("Warning");
 			builder.setMessage("This device is not supported");
