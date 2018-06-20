@@ -8,8 +8,8 @@ android {
         applicationId "com.wiatec.update"
         minSdkVersion 16
         targetSdkVersion 22
-        versionCode 403
-        versionName "v4.0.3"
+        versionCode 404
+        versionName "v4.0.4"
     }
 
     signingConfigs {

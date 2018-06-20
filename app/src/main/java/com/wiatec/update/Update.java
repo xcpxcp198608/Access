@@ -176,8 +176,7 @@ public class Update extends Activity {
 			downloadUrl = Constant.VERSIONURL;
 		}
 		Log.d("----px----" , downloadUrl);
-		//px----------------------------------------------------------------------------------------
-		checkBuildVersion();
+
 
         packageManager = getPackageManager();
         filehead=Util.getFileHead();
@@ -253,31 +252,7 @@ public class Update extends Activity {
         //current_version.setText("Current Version:" + currentVersion);
     }
 
-    //px--------------------------------------------------------------------------------------------
-	private void checkBuildVersion(){
-		long buildTime = Build.TIME;
-//		Toast.makeText(Update.this, sBuildTime+" / "+display+" / "+time2 , Toast.LENGTH_LONG).show();
 
-		long targetTime = 1496851200000L;//2017-06-08 00:00:00
-		if (buildTime >= targetTime) {
-			//
-		}else{
-			AlertDialog.Builder builder = new AlertDialog.Builder(Update.this);
-			builder.setCancelable(false);
-			builder.setTitle("Notice");
-			builder.setMessage("BTVi3 have a new version firmware, please update.");
-			builder.setPositiveButton("Confirm", new DialogInterface.OnClickListener() {
-				@Override
-				public void onClick(DialogInterface dialogInterface, int i) {
-					if(ApkCheck.isApkInstalled(Update.this,"com.droidlogic.otaupgrade")){
-						ApkLaunch.launchApkByPackageName(Update.this, "com.droidlogic.otaupgrade");
-					}
-					finish();
-				}
-			});
-			builder.show();
-		}
-	}
 
 	//px--------------------------------------------------------------------------------------------
 	@Override
@@ -509,7 +484,7 @@ public class Update extends Activity {
 			code = ErrorMsg.length - 1;
 
 		//px----------------------------------------------------------------------------------------
-//		FavoriteManager.restore();
+		FavoriteManager.restore();
 		
         m_WorkTypeTV.setText(bSuccess ? R.string.deploy_success : ErrorMsg[code]);
     	m_WorkTypeTV.setTextColor(Color.parseColor(bSuccess ? "#ff77ff79" : "#ffff0000"));
@@ -527,8 +502,7 @@ public class Update extends Activity {
      * Easily detect if anything is installed
      * @return
      */
-    public boolean isInstalled()
-    {
+    public boolean isInstalled() {
         return m_DownloadType == DownloadType.KODI || m_DownloadType == DownloadType.XBMC;
     }
     public boolean isDownloading() {

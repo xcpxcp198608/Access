@@ -859,7 +859,15 @@
                     "endOffset": 188
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/array.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/array.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 188
+                    }
                 }
             },
             {
@@ -871,7 +879,14 @@
                     "endOffset": 1434
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
                 }
             },
             {
@@ -883,7 +898,14 @@
                     "endOffset": 1490
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/dimens.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
                 }
             },
             {
@@ -895,7 +917,14 @@
                     "endOffset": 1535
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/.android/build-cache/6a831d31d7a12d127e8096ceb5d6adab95237fc4/output/res/values/values.xml"
+                    "file": "/Users/xuchengpeng/.android/build-cache/6a831d31d7a12d127e8096ceb5d6adab95237fc4/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 786,
+                        "endColumn": 44,
+                        "endOffset": 826
+                    }
                 }
             },
             {
@@ -907,7 +936,14 @@
                     "endOffset": 1614
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1519,
+                        "endColumn": 75,
+                        "endOffset": 1593
+                    }
                 }
             },
             {
@@ -919,7 +955,14 @@
                     "endOffset": 1691
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1595,
+                        "endColumn": 73,
+                        "endOffset": 1667
+                    }
                 }
             },
             {
@@ -931,7 +974,14 @@
                     "endOffset": 1765
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1669,
+                        "endColumn": 70,
+                        "endOffset": 1738
+                    }
                 }
             },
             {
@@ -943,7 +993,14 @@
                     "endOffset": 1843
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1740,
+                        "endColumn": 74,
+                        "endOffset": 1813
+                    }
                 }
             },
             {
@@ -955,7 +1012,14 @@
                     "endOffset": 1926
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1815,
+                        "endColumn": 79,
+                        "endOffset": 1893
+                    }
                 }
             },
             {
@@ -967,7 +1031,14 @@
                     "endOffset": 1999
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1895,
+                        "endColumn": 69,
+                        "endOffset": 1963
+                    }
                 }
             },
             {
@@ -979,7 +1050,14 @@
                     "endOffset": 2072
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1965,
+                        "endColumn": 69,
+                        "endOffset": 2033
+                    }
                 }
             },
             {
@@ -991,7 +1069,14 @@
                     "endOffset": 2125
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 52,
+                        "endOffset": 184
+                    }
                 }
             },
             {
@@ -1003,7 +1088,14 @@
                     "endOffset": 2172
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 46,
+                        "endOffset": 59
+                    }
                 }
             },
             {
@@ -1015,7 +1107,14 @@
                     "endOffset": 2210
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1484,
+                        "endColumn": 34,
+                        "endOffset": 1517
+                    }
                 }
             },
             {
@@ -1027,7 +1126,14 @@
                     "endOffset": 2253
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 2303,
+                        "endColumn": 39,
+                        "endOffset": 2341
+                    }
                 }
             },
             {
@@ -1039,7 +1145,14 @@
                     "endOffset": 2299
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2343,
+                        "endColumn": 42,
+                        "endOffset": 2384
+                    }
                 }
             },
             {
@@ -1051,7 +1164,14 @@
                     "endOffset": 2343
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 2101,
+                        "endColumn": 40,
+                        "endOffset": 2140
+                    }
                 }
             },
             {
@@ -1063,7 +1183,14 @@
                     "endOffset": 2420
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endColumn": 76,
+                        "endOffset": 623
+                    }
                 }
             },
             {
@@ -1075,7 +1202,14 @@
                     "endOffset": 2500
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 471,
+                        "endColumn": 79,
+                        "endOffset": 546
+                    }
                 }
             },
             {
@@ -1087,7 +1221,14 @@
                     "endOffset": 2586
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 756,
+                        "endColumn": 85,
+                        "endOffset": 837
+                    }
                 }
             },
             {
@@ -1099,7 +1240,14 @@
                     "endOffset": 2630
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 2143,
+                        "endColumn": 40,
+                        "endOffset": 2182
+                    }
                 }
             },
             {
@@ -1111,7 +1259,14 @@
                     "endOffset": 2680
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 49,
+                        "endOffset": 397
+                    }
                 }
             },
             {
@@ -1123,7 +1278,14 @@
                     "endOffset": 2749
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 68,
+                        "endOffset": 466
+                    }
                 }
             },
             {
@@ -1135,7 +1297,14 @@
                     "endOffset": 2800
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 50,
+                        "endOffset": 347
+                    }
                 }
             },
             {
@@ -1147,7 +1316,14 @@
                     "endOffset": 2853
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 896,
+                        "endColumn": 49,
+                        "endOffset": 944
+                    }
                 }
             },
             {
@@ -1159,7 +1335,14 @@
                     "endOffset": 2897
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 2225,
+                        "endColumn": 40,
+                        "endOffset": 2264
+                    }
                 }
             },
             {
@@ -1171,7 +1354,14 @@
                     "endOffset": 2966
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 68,
+                        "endOffset": 296
+                    }
                 }
             },
             {
@@ -1183,7 +1373,14 @@
                     "endOffset": 3006
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 2266,
+                        "endColumn": 36,
+                        "endOffset": 2301
+                    }
                 }
             },
             {
@@ -1195,7 +1392,14 @@
                     "endOffset": 3070
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1423,
+                        "endColumn": 60,
+                        "endOffset": 1482
+                    }
                 }
             },
             {
@@ -1207,7 +1411,14 @@
                     "endOffset": 3126
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1308,
+                        "endColumn": 52,
+                        "endOffset": 1359
+                    }
                 }
             },
             {
@@ -1219,7 +1430,14 @@
                     "endOffset": 3191
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1361,
+                        "endColumn": 61,
+                        "endOffset": 1421
+                    }
                 }
             },
             {
@@ -1231,7 +1449,14 @@
                     "endOffset": 3248
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1254,
+                        "endColumn": 53,
+                        "endOffset": 1306
+                    }
                 }
             },
             {
@@ -1243,7 +1468,14 @@
                     "endOffset": 3350
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 1155,
+                        "endColumn": 98,
+                        "endOffset": 1252
+                    }
                 }
             },
             {
@@ -1255,7 +1487,14 @@
                     "endOffset": 3496
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 1012,
+                        "endColumn": 142,
+                        "endOffset": 1153
+                    }
                 }
             },
             {
@@ -1267,7 +1506,14 @@
                     "endOffset": 3539
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2387,
+                        "endColumn": 39,
+                        "endOffset": 2425
+                    }
                 }
             },
             {
@@ -1298,7 +1544,14 @@
                     "endOffset": 3901
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2636,
+                        "endColumn": 146,
+                        "endOffset": 2781
+                    }
                 }
             },
             {
@@ -1310,7 +1563,14 @@
                     "endOffset": 4105
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2783,
+                        "endColumn": 200,
+                        "endOffset": 2982
+                    }
                 }
             },
             {
@@ -1322,7 +1582,14 @@
                     "endOffset": 4173
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 2036,
+                        "endColumn": 64,
+                        "endOffset": 2099
+                    }
                 }
             },
             {
@@ -1334,7 +1601,14 @@
                     "endOffset": 4217
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 2184,
+                        "endColumn": 40,
+                        "endOffset": 2223
+                    }
                 }
             },
             {
@@ -1346,7 +1620,14 @@
                     "endOffset": 4260
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 42,
+                        "endOffset": 227
+                    }
                 }
             },
             {
@@ -1358,7 +1639,14 @@
                     "endOffset": 4329
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 946,
+                        "endColumn": 65,
+                        "endOffset": 1010
+                    }
                 }
             },
             {
@@ -1370,7 +1658,14 @@
                     "endOffset": 4397
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 68,
+                        "endColumn": 67,
+                        "endOffset": 131
+                    }
                 }
             },
             {
@@ -1382,7 +1677,14 @@
                     "endOffset": 4454
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 56,
+                        "endOffset": 894
+                    }
                 }
             },
             {
@@ -1394,7 +1696,14 @@
                     "endOffset": 4519
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 628,
+                        "endColumn": 64,
+                        "endOffset": 688
+                    }
                 }
             },
             {
@@ -1406,7 +1715,14 @@
                     "endOffset": 4582
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 62,
+                        "endOffset": 751
+                    }
                 }
             },
             {
@@ -1414,25 +1730,41 @@
                     "startLine": 56,
                     "startColumn": 4,
                     "startOffset": 4587,
-                    "endLine": 58,
+                    "endLine": 62,
                     "endColumn": 12,
-                    "endOffset": 4665
+                    "endOffset": 4873
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/styles.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 4670,
-                    "endLine": 61,
+                    "startOffset": 4878,
+                    "endLine": 65,
                     "endColumn": 12,
-                    "endOffset": 4737
+                    "endOffset": 5033
                 },
                 "from": {
-                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/styles.xml"
+                    "file": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
                 }
             }
         ]

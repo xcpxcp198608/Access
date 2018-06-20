@@ -138,83 +138,81 @@ public class MainActivity extends Activity {
 			builder.show();
 			return;
 		}
+
+		//px----------------------------------------------------------------------------------------
+		checkBuildVersion();
 		FavoriteManager.backup();
 
-        AlertDialog.Builder builder = new Builder(MainActivity.this);
-        	builder.setTitle("Warning"); 
-        	//builder.setIcon(R.drawable.ic_launcher);
-			builder.setMessage("This content is provided by Internet, only for learning.Thanks.");
-			builder.setCancelable(false);
-
-			builder.setNegativeButton("Next", new OnClickListener() {
-				@Override
-				public void onClick(DialogInterface dialog, int which) {
-					dialog.dismiss();
-					if (!m_util.CheckNetwork(true)) {
-						new Thread(new Runnable() {
-							@Override
-							public void run() {
-								Log.e("loadMainUI", "直接loadMainUI()");
-								SystemClock.sleep(2000);
-								loadMainUI();
-							}
-						}).start();
-						
-					} else {
-						try {
-							PackageInfo packInfo = packageManager.getPackageInfo(getPackageName(), 0);
-							clientVersionCode = packInfo.versionCode;
-							checkVersion();
-						} catch (NameNotFoundException e) {
-							e.printStackTrace();
-							// 不会发生 can't reach
-						}
-					}
-				}
-			});
-			builder.show();
-        
-        
         Update.DownloadType type = m_util.DetectEnvironment();
         if (type != Update.DownloadType.NONE) {
         	if (type == Update.DownloadType.KODI)
         		m_util.KillProcess(Update.KodiPackage);
         	else if (type == Update.DownloadType.XBMC)
         		m_util.KillProcess(Update.XbmcPackage);
-        }   
-        
-        
-//        if(!m_util.CheckNetwork(true)){
-//				new Thread(new Runnable() {
-//					@Override
-//					public void run() {
-//						Log.e("loadMainUI","直接loadMainUI()");
-//						SystemClock.sleep(2000);
-//						loadMainUI();
-//					}
-//				}).start();
-//		}else{
-//			try {
-//				PackageInfo packInfo = packageManager.getPackageInfo(getPackageName(), 0);
-//				clientVersionCode = packInfo.versionCode;
-//				checkVersion();
-//			} catch (NameNotFoundException e) {
-//				e.printStackTrace();
-//				// 不会发生 can't reach
-//			}
-//		}
-        
-        
-        
-	/*	new Thread(new Runnable() {
-
-			@Override
-			public void run() {
-				SystemClock.sleep(1000);
-				startActivity();
-			}
-		}).start();*/
+        }
     }
+
+	//px--------------------------------------------------------------------------------------------
+	private void checkBuildVersion(){
+		long buildTime = Build.TIME;
+		long targetTime = 1747756800000L;//2025/5/21 00:00:00
+		if (buildTime >= targetTime) {
+			showConsent();
+		}else{
+			Toast.makeText(MainActivity.this, buildTime+"" , Toast.LENGTH_LONG).show();
+			AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
+			builder.setCancelable(false);
+			builder.setTitle("Notice");
+			builder.setMessage("BTVi have a new version firmware, please update.");
+			builder.setPositiveButton("Confirm", new DialogInterface.OnClickListener() {
+				@Override
+				public void onClick(DialogInterface dialogInterface, int i) {
+					if(ApkCheck.isApkInstalled(MainActivity.this,"com.droidlogic.otaupgrade")){
+						ApkLaunch.launchApkByPackageName(MainActivity.this, "com.droidlogic.otaupgrade");
+					}
+					finish();
+				}
+			});
+			builder.show();
+		}
+	}
+
+
+	private void showConsent(){
+		AlertDialog.Builder builder = new Builder(MainActivity.this);
+		builder.setTitle("Warning");
+		//builder.setIcon(R.drawable.ic_launcher);
+		builder.setMessage("This content is provided by Internet, only for learning.Thanks.");
+		builder.setCancelable(false);
+
+		builder.setNegativeButton("Next", new OnClickListener() {
+			@Override
+			public void onClick(DialogInterface dialog, int which) {
+				dialog.dismiss();
+				if (!m_util.CheckNetwork(true)) {
+					new Thread(new Runnable() {
+						@Override
+						public void run() {
+							Log.e("loadMainUI", "直接loadMainUI()");
+							SystemClock.sleep(2000);
+							loadMainUI();
+						}
+					}).start();
+
+				} else {
+					try {
+						PackageInfo packInfo = packageManager.getPackageInfo(getPackageName(), 0);
+						clientVersionCode = packInfo.versionCode;
+						checkVersion();
+					} catch (NameNotFoundException e) {
+						e.printStackTrace();
+						// 不会发生 can't reach
+					}
+				}
+			}
+		});
+		builder.show();
+	}
     
     /**
 	 * 连接服务器 检查版本号 是否有更新
@@ -254,8 +252,8 @@ public class MainActivity extends Activity {
 							}
 						}
 					} else {
-						// 错误2015 请联系客服
-						UIUtils.showToast(MainActivity.this,"服务器状态码错误,请联系客服");
+						 //错误2015 请联系客服
+//						UIUtils.showToast(MainActivity.this,"服务器状态码错误,请联系客服");
 						msg.what = LOAD_MAINUI;
 					}
 				} catch (MalformedURLException e) {

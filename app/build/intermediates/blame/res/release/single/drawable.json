@@ -4,12 +4,12 @@
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable/download_btn_p.png"
     },
     {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\version_btn_f.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\version_btn_f.png"
-    },
-    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable/kodi_btn.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/src/main/res/drawable/kodi_btn.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\version_btn_f.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\version_btn_f.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\logo.png",
@@ -28,12 +28,12 @@
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\round_bg.png"
     },
     {
-        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_1.png",
-        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\background_1.png"
-    },
-    {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\version_btn_d.png",
         "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\version_btn_d.png"
+    },
+    {
+        "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_1.png",
+        "source": "/Users/xuchengpeng/AndroidStudioProjects/Access/F:\\as_project\\BTVUpdater4\\app\\src\\main\\res\\drawable\\background_1.png"
     },
     {
         "merged": "/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/res/merged/release/drawable/version_btn.png",

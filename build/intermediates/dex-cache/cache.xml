@@ -12,12 +12,48 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/xuchengpeng/AndroidStudioProjects/Access/app/libs/commons-codec-1.9.jar"
+        jar="/Users/xuchengpeng/.android/build-cache/157303f8c39dda4a7e068807c89a142d443a7805/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
-        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/debug/commons-codec-1.9_8f4e7b72b699540e153a2b2e94a3feef6e023c30.jar" />
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/classes_94e13754afb365260a90fc7197a734c67271ebd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/picasso-2.5.2_87bbc30ebaabf8a59ce901c6c190daa9b0b73879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/.android/build-cache/6a831d31d7a12d127e8096ceb5d6adab95237fc4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7b11f0b78751aa4718b8de83b1e2a7ed908865">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/classes_0b44afefb1cde8977e89320a5fccdc38e51561a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/.android/build-cache/ec3a4e932827be5a43bfe669e5b0666cafa702ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/classes_b9b0fb74c57fd02b3c88944f402bb67048d72ebc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/.android/build-cache/ec3a4e932827be5a43bfe669e5b0666cafa702ab/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_373f4b0ca25e5f7930634f70a9bae15aa80f6507.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,12 +66,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jar="/Users/xuchengpeng/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/commons-io-2.4_0867e53064e8c0f0dfa87a71c8379bb1b48119b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/AndroidStudioProjects/Access/app/libs/commons-codec-1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/debug/commons-codec-1.9_8f4e7b72b699540e153a2b2e94a3feef6e023c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xuchengpeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/xuchengpeng/AndroidStudioProjects/Access/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_665a5271556bce59a854d07d02c65867d1754a85.jar" />
     </item>
 
 </items>
