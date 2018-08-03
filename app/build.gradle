@@ -48,9 +48,9 @@ android {
         variant.outputs.all { output ->
             def fileName = ""
             if (variant.buildType.name == 'release') {
-                fileName = applicationId + "_" + variant.versionName + "_" + variant.versionCode + "_${releaseTime()}.apk"
+                fileName = applicationId + "_pcp_" + variant.versionName + "_" + variant.versionCode + "_${releaseTime()}.apk"
             } else if (variant.buildType.name == 'debug') {
-                fileName = applicationId + "_" + variant.versionName + "_" + variant.versionCode + "_debug.apk"
+                fileName = applicationId + "_pcp_" + variant.versionName + "_" + variant.versionCode + "_debug.apk"
             }
             outputFileName = new File(fileName)
         }
