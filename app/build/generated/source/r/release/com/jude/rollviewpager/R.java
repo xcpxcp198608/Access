@@ -8,34 +8,34 @@ package com.jude.rollviewpager;
 
 public final class R {
     public static final class attr {
-        public static final int rollviewpager_hint_alpha = 0x7f010008;
-        public static final int rollviewpager_hint_color = 0x7f010007;
-        public static final int rollviewpager_hint_gravity = 0x7f010001;
-        public static final int rollviewpager_hint_mode = 0x7f010000;
-        public static final int rollviewpager_hint_paddingBottom = 0x7f010005;
-        public static final int rollviewpager_hint_paddingLeft = 0x7f010003;
-        public static final int rollviewpager_hint_paddingRight = 0x7f010002;
-        public static final int rollviewpager_hint_paddingTop = 0x7f010004;
-        public static final int rollviewpager_play_delay = 0x7f010006;
+        public static final int rollviewpager_hint_alpha = 0x7f020007;
+        public static final int rollviewpager_hint_color = 0x7f020008;
+        public static final int rollviewpager_hint_gravity = 0x7f020009;
+        public static final int rollviewpager_hint_mode = 0x7f02000a;
+        public static final int rollviewpager_hint_paddingBottom = 0x7f02000b;
+        public static final int rollviewpager_hint_paddingLeft = 0x7f02000c;
+        public static final int rollviewpager_hint_paddingRight = 0x7f02000d;
+        public static final int rollviewpager_hint_paddingTop = 0x7f02000e;
+        public static final int rollviewpager_play_delay = 0x7f02000f;
     }
     public static final class id {
-        public static final int center = 0x7f060003;
-        public static final int left = 0x7f060004;
-        public static final int number = 0x7f060001;
-        public static final int point = 0x7f060002;
-        public static final int right = 0x7f060005;
-        public static final int viewpager_inner = 0x7f060000;
+        public static final int center = 0x7f050002;
+        public static final int left = 0x7f050008;
+        public static final int number = 0x7f05000a;
+        public static final int point = 0x7f05000b;
+        public static final int right = 0x7f05000c;
+        public static final int viewpager_inner = 0x7f050014;
     }
     public static final class styleable {
-        public static final int[] RollViewPager = { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006, 0x7f010007, 0x7f010008 };
-        public static final int RollViewPager_rollviewpager_hint_alpha = 8;
-        public static final int RollViewPager_rollviewpager_hint_color = 7;
-        public static final int RollViewPager_rollviewpager_hint_gravity = 1;
-        public static final int RollViewPager_rollviewpager_hint_mode = 0;
-        public static final int RollViewPager_rollviewpager_hint_paddingBottom = 5;
-        public static final int RollViewPager_rollviewpager_hint_paddingLeft = 3;
-        public static final int RollViewPager_rollviewpager_hint_paddingRight = 2;
-        public static final int RollViewPager_rollviewpager_hint_paddingTop = 4;
-        public static final int RollViewPager_rollviewpager_play_delay = 6;
+        public static final int[] RollViewPager = { 0x7f020007, 0x7f020008, 0x7f020009, 0x7f02000a, 0x7f02000b, 0x7f02000c, 0x7f02000d, 0x7f02000e, 0x7f02000f };
+        public static final int RollViewPager_rollviewpager_hint_alpha = 0;
+        public static final int RollViewPager_rollviewpager_hint_color = 1;
+        public static final int RollViewPager_rollviewpager_hint_gravity = 2;
+        public static final int RollViewPager_rollviewpager_hint_mode = 3;
+        public static final int RollViewPager_rollviewpager_hint_paddingBottom = 4;
+        public static final int RollViewPager_rollviewpager_hint_paddingLeft = 5;
+        public static final int RollViewPager_rollviewpager_hint_paddingRight = 6;
+        public static final int RollViewPager_rollviewpager_hint_paddingTop = 7;
+        public static final int RollViewPager_rollviewpager_play_delay = 8;
     }
 }

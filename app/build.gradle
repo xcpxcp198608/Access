@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 22
-    buildToolsVersion '25.0.0'
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
         applicationId "com.wiatec.update"
@@ -39,18 +39,20 @@ android {
         }
     }
 
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
     applicationVariants.all { variant ->
-        variant.outputs.each { output ->
-            def outputFile = output.outputFile
-            def fileName
-            if (outputFile != null && outputFile.name.endsWith('.apk')) {
-                if (variant.buildType.name.equals('release')) {
-                    fileName = "${defaultConfig.applicationId}_${defaultConfig.versionName}_${defaultConfig.versionCode}_${releaseTime()}.apk"
-                } else if (variant.buildType.name.equals('debug')) {
-                    fileName = "${defaultConfig.applicationId}_${defaultConfig.versionName}_${defaultConfig.versionCode}_debug.apk"
-                }
-                output.outputFile = new File(outputFile.parent, fileName)
+        variant.outputs.all { output ->
+            def fileName = ""
+            if (variant.buildType.name == 'release') {
+                fileName = applicationId + "_" + variant.versionName + "_" + variant.versionCode + "_${releaseTime()}.apk"
+            } else if (variant.buildType.name == 'debug') {
+                fileName = applicationId + "_" + variant.versionName + "_" + variant.versionCode + "_debug.apk"
             }
+            outputFileName = new File(fileName)
         }
     }
 }
@@ -60,13 +62,13 @@ def releaseTime() {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:22.2.1'
-    compile files('libs/android-async-http-1.4.5.jar')
-    compile files('libs/commons-codec-1.9.jar')
-    compile files('libs/xUtils.jar')
+    api 'com.android.support:support-v4:22.2.1'
+    api files('libs/android-async-http-1.4.5.jar')
+    api files('libs/commons-codec-1.9.jar')
+    api files('libs/xUtils.jar')
 
-    compile 'com.jude:rollviewpager:1.4.5'
-    compile 'com.android.volley:volley:1.0.0'
-    compile 'com.squareup.picasso:picasso:2.5.2'
-    compile group: 'commons-io', name: 'commons-io', version: '2.4'
+    implementation 'com.jude:rollviewpager:1.4.5'
+    implementation 'com.android.volley:volley:1.0.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation group: 'commons-io', name: 'commons-io', version: '2.5'
 }

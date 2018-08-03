@@ -158,24 +158,7 @@ public class Update extends Activity {
 		tv_Marquee = (MarqueeView) findViewById(R.id.tv_Marquee);
 		sharedPreferences = getSharedPreferences("language" ,MODE_PRIVATE);
 		localLanguage = sharedPreferences.getString("language" ,"");
-		if("".equals(localLanguage)){
-			downloadUrl = Constant.VERSIONURL;
-		}else if(getString(R.string.english).equals(localLanguage)){
-			downloadUrl = Constant.VERSIONURL;
-		}else if(getString(R.string.italian).equals(localLanguage)){
-			downloadUrl = Constant.ITALIAN_VERSION_URL;
-		}else if(getString(R.string.spanish).equals(localLanguage)){
-			downloadUrl = Constant.SPANISH_VERSION_URL;
-		}else if(getString(R.string.korea).equals(localLanguage)){
-			downloadUrl = Constant.KOREA_VERSION_URL;
-		}else if(getString(R.string.chinese_tw).equals(localLanguage)){
-			downloadUrl = Constant.CHINESE_TW_VERSION_URL;
-		}else if(getString(R.string.chinese).equals(localLanguage)){
-			downloadUrl = Constant.CHINESE_VERSION_URL;
-		}else {
-			downloadUrl = Constant.VERSIONURL;
-		}
-		Log.d("----px----" , downloadUrl);
+		downloadUrl = Constant.VERSIONURL;
 
 
         packageManager = getPackageManager();

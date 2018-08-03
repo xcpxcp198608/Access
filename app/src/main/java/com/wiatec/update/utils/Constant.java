@@ -11,16 +11,8 @@ public class Constant {
 	
 	public static final String FILEDELTXT = "/Android/data/org.xbmc.kodi/files/.kodi/filedel.txt";
 
-//	public static final String VERSIONURL = "http://btvota.ldlegacy.com/v4/update.js";
 	public static final String VERSIONURL = "http://btvota17.ldlegacy.com:808/v17/update.js";
 
-	public static final String SPANISH_VERSION_URL = "http://btvota.ldlegacy.com/v4/es/update.js";
-	public static final String ITALIAN_VERSION_URL = "http://btvota.ldlegacy.com/v4/it/update.js";
-	public static final String KOREA_VERSION_URL = " http://btvota.ldlegacy.com/v4/ko/update.js";
-	public static final String CHINESE_VERSION_URL = "http://btvota.ldlegacy.com/v4/zhcn/update.js";
-	public static final String CHINESE_TW_VERSION_URL = "http://btvota.ldlegacy.com/v4/zhtw/update.js";
-
-	
 	public static final String APPUPDATEURL = "http://btvota17.ldlegacy.com:808/v17/APP/UPDATEAPP.js";
 
 }
