@@ -142,7 +142,7 @@ public class CheckVersionService extends Service {
 					        mNotificationManager.notify(1,notification);*/
 							
 							AlertDialog.Builder builder = new AlertDialog.Builder(getApplicationContext());  
-					        builder.setTitle("ACCESS");  
+					        builder.setTitle("");
 					        //builder.setIcon(R.drawable.ic_launcher);
 					        builder.setMessage(updateInfo);
 					        builder.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
